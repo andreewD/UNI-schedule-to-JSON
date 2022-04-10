@@ -1,0 +1,3690 @@
+[
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ESCUELA PROFESIONAL DE FÍSICA",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FÍSICA I",
+  "Column2": "BFI01 A",
+  "Column3": "LU 10-12\nMI 10-12",
+  "Column4": "zoom25\nzoom70",
+  "Column5": "M. BROCCA",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 08-10\nVI 08-10 (P)\nVI 13-15\nVI 13-15 (L)",
+  "Column4": "J3-182A\nzoom157 LAB F\nzoom164",
+  "Column5": "M. INGA\nM. CUYUBAMBA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BFI01 B",
+  "Column3": "LU 14-16\nMI 14-16",
+  "Column4": "zoom25\nzoom160",
+  "Column5": "M. BROCCA",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 08-10\nVI 08-10 (P)\nVI 08-10\nVI 08-10 (L)",
+  "Column4": "J3-232\nzoom160 LAB F\nzoom165",
+  "Column5": "R. SALAZAR\nS. CUSTODIO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BFI01 C",
+  "Column3": "MA 08-10\nJU 08-10",
+  "Column4": "zoom23\nzoom93",
+  "Column5": "M. CUYUBAMBA",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 08-10\nVI 08-10 (P)\nVI 10-12\nVI 10-12 (L)",
+  "Column4": "J3-182B\nzoom158 LAB F\nzoom165",
+  "Column5": "S. RODRÍGUEZ\nG. CORTEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BFI01 D",
+  "Column3": "MA 10-12\nVI 10-12",
+  "Column4": "zoom164\nzoom91",
+  "Column5": "A. ALTAMIRANO",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 08-10\nVI 08-10 (P)\nJU 10-12\nJU 10-12 (L)",
+  "Column4": "J3-242\nzoom161 LAB F\nzoom93",
+  "Column5": "G. CORTEZ\nS. RODRÍGUEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FÍSICA II",
+  "Column2": "CF1B2 A",
+  "Column3": "LU 10-12\nMI 10-12",
+  "Column4": "zoom162\nzoom161",
+  "Column5": "S. CUSTODIO",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 08-10\nVI 08-10 (P)\nVI 14-17\nVI 14-17 (L)",
+  "Column4": "J3-162B\nzoom152 LAB3 F\nzoom153",
+  "Column5": "R. SALAZAR\nS. RODRÍGUEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CF1B2 B",
+  "Column3": "MA 08-10\nJU 08-10",
+  "Column4": "zoom162\nzoom152",
+  "Column5": "M. ZEVALLOS",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 08-10\nVI 08-10 (P)\nMA 13-16\nMA 13-16 (L)",
+  "Column4": "J3-222\nzoom153 LAB F\nzoom162",
+  "Column5": "C. ONCEBAY",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "LABORATORIO DE FISICA INTERMEDIA",
+  "Column2": "CF4E1 A",
+  "Column3": "MA 08-12\nMA 08-12\nJU 08-12\nJU 08-12",
+  "Column4": "LAB3 F\nzoom335 LAB3 F\nzoom335",
+  "Column5": "B. PUJADA\nC. EYZAGUIRRE",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CF4E1 B",
+  "Column3": "MI 08-12\nMI 08-12\nVI 08-12\nVI 08-12",
+  "Column4": "LAB3 F\nzoom335 LAB3 F\nzoom335",
+  "Column5": "S. PETRICK\nC. CASTROMONTE",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CF4E1 C",
+  "Column3": "MI 14-18\nMI 14-18\nSA 09-13\nSA 09-13",
+  "Column4": "LAB3 F\nzoom335 LAB3 F\nzoom335",
+  "Column5": "D. RUEDA\nC. CASTROMONTE",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FISICA III",
+  "Column2": "CF2B1 A",
+  "Column3": "LU 08-10\nMI 08-10",
+  "Column4": "zoom157\nzoom164",
+  "Column5": "S. CUSTODIO",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 10-12\nVI 10-12 (P)\nVI 16-19\nVI 16-19 (L)",
+  "Column4": "J3-222\nzoom153 LAB F\nzoom383",
+  "Column5": "G. CORTEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CF2B1 B",
+  "Column3": "LU 10-12\nMI 10-12",
+  "Column4": "zoom163\nzoom159",
+  "Column5": "R. SALAZAR",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 10-12\nVI 10-12 (P)\nJU 16-19\nJU 16-19 (L)",
+  "Column4": "J3-182B\nzoom152 LAB F\nzoom153",
+  "Column5": "G. CORTEZ\nC. ONCEBAY",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "LABORATORIO DE FISICA AVANZADA",
+  "Column2": "CF4E2 A",
+  "Column3": "LU 08-12\nLU 08-12\nMI 08-12\nMI 08-12",
+  "Column4": "LAB FA\nzoom383 LAB FA\nzoom329",
+  "Column5": "A. VALERA",
+  "Column6": 12
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "OPTICA CLASICA",
+  "Column2": "CF2B2 A",
+  "Column3": "LU 14-16\nMI 14-16",
+  "Column4": "zoom91\nzoom90",
+  "Column5": "J. AMORETTI",
+  "Column6": 24
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 10-12 (P)\nMA 10-13\nMA 10-13 (L)",
+  "Column4": "zoom163 LAB2 F\nzoom22",
+  "Column5": "M. CUYUBAMBA\nA. PAREDES",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CF2B2 B",
+  "Column3": "MI 14-16\nVI 14-16",
+  "Column4": "zoom92\nzoom92",
+  "Column5": "M. ZEVALLOS",
+  "Column6": 24
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 10-12 (P)\nLU 13-16\nLU 13-16 (L)",
+  "Column4": "zoom161\nLAB2 F\nzoom383",
+  "Column5": "S. CUSTODIO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ÁLGEBRA LINEAL PARA FÍSICOS I",
+  "Column2": "CF1C2 A",
+  "Column3": "MA 10-12\nJU 10-12",
+  "Column4": "zoom162\nzoom161",
+  "Column5": "E. VIDALÓN",
+  "Column6": 50
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10",
+  "Column4": "J3-182A\nzoom330",
+  "Column5": "M. CUYUBAMBA\nS. RODRÍGUEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ALGEBRA LINEAL PARA FISICOS II",
+  "Column2": "CF2C1 A",
+  "Column3": "MA 16-18\nVI 14-16",
+  "Column4": "zoom164 zoom383",
+  "Column5": "D. SOTO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 13-16",
+  "Column4": "zoom158",
+  "Column5": "A. PAREDES",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "METODOS MATEMATICOS PARA FÍSICOS I",
+  "Column2": "CF2C2 A",
+  "Column3": "LU 08-10\nMI 08-10\nVI 08-10",
+  "Column4": "zoom23 zoom93\nzoom91",
+  "Column5": "R. TOVAR",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 14-17",
+  "Column4": "zoom165",
+  "Column5": "A. ALTAMIRANO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MECÁNICA CLÁSICA",
+  "Column2": "CF3F1 A",
+  "Column3": "LU 08-10\nMI 08-10\nVI 08-10",
+  "Column4": "zoom164 zoom163\nzoom164",
+  "Column5": "J. TELLO",
+  "Column6": 50
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 08-11",
+  "Column4": "zoom152",
+  "Column5": "M. CUYUBAMBA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MECÁNICA CUÁNTICA I",
+  "Column2": "CF3F2 A",
+  "Column3": "MA 10-12\nJU 10-12",
+  "Column4": "zoom165\nzoom152",
+  "Column5": "O. PEREYRA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 16-20",
+  "Column4": "zoom164",
+  "Column5": "H. DÍAZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FISICA MODERNA",
+  "Column2": "CF3F3 A",
+  "Column3": "LU 14-16\nLU 14-16\nMI 14-16\nMI 14-16",
+  "Column4": "R1-430\nzoom153 R1-430\nzoom153",
+  "Column5": "S. PETRICK",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 15-18",
+  "Column4": "zoom160",
+  "Column5": "M. INGA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CIRCUITOS ELECTRONICOS ANALOGICOS",
+  "Column2": "CF3E1 A",
+  "Column3": "MA 08-12\nMA 08-12\nJU 08-12\nJU 08-12",
+  "Column4": "R2-323\nzoom329 R2-323\nzoom153",
+  "Column5": "A. ORCCOHUARANCCA\nC. ONCEBAY",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CF3E1 B",
+  "Column3": "MA 14-18\nMA 14-18\nVI 14-18\nVI 14-18",
+  "Column4": "R2-323\nzoom329 R2-323\nzoom165",
+  "Column5": "C. RONDINEL A.\nORCCOHUARANCCA",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "METODOS MATEMATICOS PARA FISICOS II",
+  "Column2": "CF3C1 A",
+  "Column3": "LU 10-12\nMI 10-12\nVI 10-12",
+  "Column4": "zoom164 zoom163\nzoom164",
+  "Column5": "E. VIDALÓN",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 14-17",
+  "Column4": "zoom165",
+  "Column5": "A. ALTAMIRANO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ELECTROMAGNETISMO I",
+  "Column2": "CF3F4 A",
+  "Column3": "LU 08-10\nMA 08-10\nJU 08-10",
+  "Column4": "zoom163 zoom22\nzoom160",
+  "Column5": "R. OCHOA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 14-18",
+  "Column4": "zoom22",
+  "Column5": "A. ALTAMIRANO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TERMODINAMICA Y MECANICA ESTADISTICA",
+  "Column2": "CF4F1 A",
+  "Column3": "LU 08-10\nMI 08-10",
+  "Column4": "zoom162\nzoom161",
+  "Column5": "H. LORO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 14-18",
+  "Column4": "zoom383",
+  "Column5": "A. PAREDES",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MECANICA CUANTICA II",
+  "Column2": "CF4F3 A",
+  "Column3": "MI 10-12\nVI 10-12",
+  "Column4": "zoom164\nzoom162",
+  "Column5": "R. TOVAR",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 14-18",
+  "Column4": "zoom162",
+  "Column5": "H. DÍAZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FISICA ATOMICA Y MOLECULAR",
+  "Column2": "CF4F2 A",
+  "Column3": "MA 10-12\nJU 10-12",
+  "Column4": "zoom159\nzoom160",
+  "Column5": "J. BELTRÁN",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 13-16",
+  "Column4": "zoom23",
+  "Column5": "A. ALTAMIRANO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FISICA DEL ESTADO SOLIDO I",
+  "Column2": "CF5F1 A",
+  "Column3": "LU 16-18\nMI 16-18",
+  "Column4": "zoom91\nzoom160",
+  "Column5": "M. LEÓN",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 16-20",
+  "Column4": "zoom23",
+  "Column5": "S. CUSTODIO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS I",
+  "Column2": "CF4D2 A",
+  "Column3": "Coordinar con el asesor",
+  "Column4": null,
+  "Column5": "R. OCHOA\nR. TOVAR\nJ. TELLO\nO. PEREYRA\nH. DÍAZ\nA. VALERA\nH. LORO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS II",
+  "Column2": "CF5D1 A",
+  "Column3": "Coordinar con el asesor",
+  "Column4": null,
+  "Column5": "J. TELLO\nC. EYZAGUIRRE\nH. LORO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FISICA NUCLEAR Y DE PARTICULAS",
+  "Column2": "CF5F3 A",
+  "Column3": "MA 18-20\nMI 18-20\nJU 18-20",
+  "Column4": "zoom152\nzoom93 zoom165",
+  "Column5": "J. AMORETTI",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 18-21",
+  "Column4": "zoom91",
+  "Column5": "J. AMORETTI",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS III",
+  "Column2": "CF5D2 A",
+  "Column3": "Coordinar con el asesor",
+  "Column4": null,
+  "Column5": null,
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS ELECTIVOS",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTRODUCCIÓN A LA ELECTRODINÁMICA CUÁNTICA",
+  "Column2": "CF076 A",
+  "Column3": "LU 10-12\nMA 14-16",
+  "Column4": "zoom23\nzoom164",
+  "Column5": "O. PEREYRA",
+  "Column6": 12
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 08-12",
+  "Column4": "zoom164",
+  "Column5": "O. CASTILLO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MÉTODOS NUMÉRICOS",
+  "Column2": "CF060 A",
+  "Column3": "LU 16-18\nMI 16-18",
+  "Column4": "zoom163\nzoom159",
+  "Column5": "A. D. PAREDES",
+  "Column6": 12
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 18-20",
+  "Column4": "zoom163",
+  "Column5": "A. D. PAREDES",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TÓPICOS ESPECIALES I",
+  "Column2": "CF001\nA",
+  "Column3": "LU 10-12\nMI 14-16",
+  "Column4": "zoom24\nzoom69",
+  "Column5": "D. SOTO",
+  "Column6": 12
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ELECTROMAGNETISMO II",
+  "Column2": "CF049 A",
+  "Column3": "LU 14-16\nMA 12-14\nJU 14-16",
+  "Column4": "zoom159 zoom92\nzoom158",
+  "Column5": "D. SOTO",
+  "Column6": 12
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 14-16",
+  "Column4": "zoom154",
+  "Column5": "D. SOTO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTRODUCCION A LA ASTRONOMIA",
+  "Column2": "CF046 A",
+  "Column3": "MI 10-12\nVI 17-19",
+  "Column4": "zoom156\nzoom163",
+  "Column5": "M. ZEVALLOS",
+  "Column6": 10
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 14-18\nLU 14-18",
+  "Column4": "R1-440\nzoom92",
+  "Column5": "M. ZEVALLOS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ESCUELA PROFESIONAL DE MATEMÁTICA",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CÁLCULO DIFERENCIAL",
+  "Column2": "BMA01 A",
+  "Column3": "MA 08-10\nMA 08-10\nVI 10-12\nVI 10-12",
+  "Column4": "J3-222\nzoom93 J3-162A\nzoom160",
+  "Column5": "G. PANIZO",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10\nLU 08-10",
+  "Column4": "J3-162A\nzoom25",
+  "Column5": "B. OSTOS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA01 B",
+  "Column3": "MA 10-12\nMA 10-12",
+  "Column4": "J3-222\nzoom69",
+  "Column5": "J. VALVERDE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10\nLU 08-10",
+  "Column4": "J3-162B\nzoom70",
+  "Column5": "L. LA ROSA",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA01 C",
+  "Column3": "LU 14-16\nLU 14-16",
+  "Column4": "J3-162B\nzoom24",
+  "Column5": "F. VILLANUEVA",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10\nLU 08-10",
+  "Column4": "J3-182A\nzoom89",
+  "Column5": "E. ORE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA01 D",
+  "Column3": "LU 10-12\nLU 10-12\nMI 10-12\nMI 10-12",
+  "Column4": "J3-162A\nzoom69 J3-162A\nzoom25",
+  "Column5": "R. METZGER",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10\nLU 08-10",
+  "Column4": "J3-182B\nzoom24",
+  "Column5": "L. ROCA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA01 E",
+  "Column3": "MA 10-12\nMA 10-12\nJU 10-12",
+  "Column4": "J3-232\nzoom156 J3-162A",
+  "Column5": "J. PALACIOS",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10\nLU 08-10",
+  "Column4": "J3-222\nzoom161",
+  "Column5": "J. PALACIOS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ÁLGEBRA LINEAL",
+  "Column2": "BMA03 A",
+  "Column3": "MA 10-12\nJU 10-12",
+  "Column4": "zoom25\nzoom25",
+  "Column5": "J. ZAMUDIO",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10",
+  "Column4": "J3-162A\nzoom25",
+  "Column5": "E. ORE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA03 B",
+  "Column3": "MA 08-10\nJU 08-10",
+  "Column4": "zoom69\nzoom69",
+  "Column5": "R. ACUÑA",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10",
+  "Column4": "J3-162B\nzoom70",
+  "Column5": "R. ACUÑA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA03 C",
+  "Column3": "MA 15-17\nJU 14-16",
+  "Column4": "zoom89\nzoom159",
+  "Column5": "L. ROCA",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10",
+  "Column4": "J3-182B\nzoom89",
+  "Column5": "L. PAREDES",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA03 D",
+  "Column3": "JU 14-16\nVI 14-16",
+  "Column4": "zoom25\nzoom25",
+  "Column5": "A. CHULLUNCUY",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10",
+  "Column4": "J3-222\nzoom91",
+  "Column5": "J. CRIBILLERO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA03 E",
+  "Column3": "MA 14-16\nVI 14-16",
+  "Column4": "zoom92\nzoom159",
+  "Column5": "G. PANIZO",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10",
+  "Column4": "J3-232\nzoom156",
+  "Column5": "G. PANIZO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CÁLCULO INTEGRAL",
+  "Column2": "BMA02 A",
+  "Column3": "MA 08-10\nJU 08-10",
+  "Column4": "zoom70\nzoom89",
+  "Column5": "F. ESCALANTE",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10\nLU 08-10",
+  "Column4": "R1-401\nzoom90",
+  "Column5": "F. ESCALANTE\nF. NAVARRO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA02 B",
+  "Column3": "LU 10-12\nLU 10-12\nVI 10-12\nVI 10-12",
+  "Column4": "R1-401\nzoom90 R1-401\nzoom23",
+  "Column5": "D. CAYTUIRO",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10\nLU 08-10",
+  "Column4": "R1-411\nzoom92",
+  "Column5": "D. CAYTUIRO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA02 C",
+  "Column3": "LU 14-16\nMI 14-16",
+  "Column4": "zoom89\nzoom70",
+  "Column5": "J. CRIBILLERO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10\nLU 08-10",
+  "Column4": "R1-421\nzoom93",
+  "Column5": "R. ACUÑA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BMA02 D",
+  "Column3": "MA 16-18\nMA 16-18\nJU 16-18\nJU 16-18",
+  "Column4": "R1-401\nzoom70 R1-460\nzoom70",
+  "Column5": "E. ORE",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10\nLU 08-10",
+  "Column4": "R1-430\nzoom91",
+  "Column5": "J. ZAMUDIO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "LÓGICA Y TEORÍA DE CONJUNTOS",
+  "Column2": "CM1A2 A",
+  "Column3": "SA 08-12\nSA 08-12",
+  "Column4": "R1-401\nzoom89",
+  "Column5": "L. LA ROSA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 14-16\nLU 14-16",
+  "Column4": "R1-401\nzoom162",
+  "Column5": "L. LA ROSA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MATEMÁTICA DISCRETA",
+  "Column2": "CM2H1 A",
+  "Column3": "MI 16-18\nVI 16-18",
+  "Column4": "zoom92\nzoom159",
+  "Column5": "R. MAS",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 12-14\nSA 12-14",
+  "Column4": "R1-401\nzoom92",
+  "Column5": "R. MAS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM2H1 B",
+  "Column3": "MA 10-12\nMA 10-12\nJU 10-12\nJU 10-12",
+  "Column4": "R1-411\nzoom91 R1-430\nzoom163",
+  "Column5": "J. MAYTA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 12-14\nSA 12-14",
+  "Column4": "R1-411\nzoom89",
+  "Column5": "J. MAYTA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROGRAMACIÓN ESTRUCTURADA",
+  "Column2": "CM2F1 A",
+  "Column3": "MI 14-16\nMI 14-16",
+  "Column4": "SALA 1\nzoom155",
+  "Column5": "L. ROCA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 12-14\nMA 12-14\nJU 12-14\nJU 12-14",
+  "Column4": "SALA 1\nzoom89 SALA 1\nzoom163",
+  "Column5": "R. PEREZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CÁLCULO DE PROBABILIDADES",
+  "Column2": "CM1H2 A",
+  "Column3": "MA 14-16",
+  "Column4": "zoom69",
+  "Column5": "J. ZAMUDIO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 12-14\nLU 12-14",
+  "Column4": "J3-162B\nzoom70",
+  "Column5": "J. ZAMUDIO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM1H2 B",
+  "Column3": "JU 10-12\nJU 10-12",
+  "Column4": "R1-421\nzoom90",
+  "Column5": "J. MUNGUIA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 12-14\nLU 12-14",
+  "Column4": "R1-411\nzoom89",
+  "Column5": "J. MUNGUIA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM1H2 C",
+  "Column3": "MI 16-18",
+  "Column4": "zoom23",
+  "Column5": "L. NAVARRO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 12-14\nLU 12-14",
+  "Column4": "J3-182A\nzoom90",
+  "Column5": "L. NAVARRO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CÁLCULO DIFERENCIAL E INTEGRAL AVANZADO",
+  "Column2": "CM2A1 A",
+  "Column3": "LU 10-12\nMI 10-12\nSA 10-12",
+  "Column4": "zoom22\nzoom22 zoom69",
+  "Column5": "M. QUIÑONES",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 08-10\nMA 08-10\nJU 08-10",
+  "Column4": "R1-401\nzoom24 zoom163",
+  "Column5": "J. ZAMUDIO\nJ. SULCA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM2A1 B",
+  "Column3": "JU 08-10\nVI 10-12\nSA 08-10",
+  "Column4": "zoom161 zoom22\nzoom161",
+  "Column5": "F. JARA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 08-10\nMA 08-10\nMI 18-20",
+  "Column4": "R1-411\nzoom25 zoom22",
+  "Column5": "L. PAREDES\nB. OSTOS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM2A1 C",
+  "Column3": "LU 14-16\nLU 14-16\nMI 14-16\nMI 14-16\nVI 18-20\nVI 18-20",
+  "Column4": "R1-411\nzoom164 R1-411\nzoom164 R1-411\nzoom92",
+  "Column5": "J. SULCA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 08-10\nMA 08-10\nVI 14-16",
+  "Column4": "R1-421\nzoom89 zoom91",
+  "Column5": "J. SULCA\nD. ABANTO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM2A1 D",
+  "Column3": "MI 16-18\nMI 16-18\nJU 16-18\nJU 16-18\nVI 16-18\nVI 16-18",
+  "Column4": "R1-401\nzoom161 R1-450\nzoom161 R1-411\nzoom161",
+  "Column5": "L. PAREDES",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 08-10\nMA 08-10\nMI 08-10",
+  "Column4": "R1-430\nzoom90 zoom90",
+  "Column5": "E. ORE\nF. JARA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ESTADISTICA INFERENCIAL",
+  "Column2": "CM2H2\nA",
+  "Column3": "MA 16-18",
+  "Column4": "zoom153",
+  "Column5": "J. ZAMUDIO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 14-16",
+  "Column4": "zoom156",
+  "Column5": "J. ZAMUDIO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM2H2\nB",
+  "Column3": "MA 10-12",
+  "Column4": "zoom90",
+  "Column5": "J. UGARTE",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 14-16",
+  "Column4": "zoom155",
+  "Column5": "J. UGARTE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANALISIS REAL",
+  "Column2": "CM2A2 A",
+  "Column3": "MA 08-10\nJU 08-10\nSA 08-10",
+  "Column4": "zoom153\nzoom23 zoom25",
+  "Column5": "J. CERNADES",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 20-22\nMI 16-18",
+  "Column4": "zoom163\nzoom90",
+  "Column5": "J. SULCA\nF. VILLANUEVA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM2A2 B",
+  "Column3": "MA 08-10\nJU 08-10\nSA 08-10",
+  "Column4": "zoom152 zoom90 zoom69",
+  "Column5": "M. QUIÑONES",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 20-22\nMI 08-10",
+  "Column4": "zoom164 zoom162",
+  "Column5": "B. OSTOS\nB. OSTOS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANALISIS CONVEXO",
+  "Column2": "CM3E2 A",
+  "Column3": "MA 16-18\nJU 16-18",
+  "Column4": "zoom92 zoom23",
+  "Column5": "E. OCAÑA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 16-18",
+  "Column4": "zoom22",
+  "Column5": "F. NAVARRO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ÁLGEBRA LINEAL I",
+  "Column2": "CM1B2 A",
+  "Column3": "MA 10-12\nMA 10-12\nJU 10-12\nJU 10-12",
+  "Column4": "R1-421\nzoom24 R1-440\nzoom89",
+  "Column5": "F. NAVARRO",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10",
+  "Column4": "R1-401\nzoom23",
+  "Column5": "F. NAVARRO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM1B2 B",
+  "Column3": "MA 17-19\nMI 08-10",
+  "Column4": "zoom90\nzoom22",
+  "Column5": "A. HIDALGO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10",
+  "Column4": "R1-411\nzoom157",
+  "Column5": "D. CAYTUIRO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM1B2 C",
+  "Column3": "LU 18-20\nMI 18-20",
+  "Column4": "zoom25\nzoom23",
+  "Column5": "J. ARCE",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10",
+  "Column4": "R1-421\nzoom153",
+  "Column5": "J. PALACIOS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ÁLGEBRA LINEAL II",
+  "Column2": "CM2B1 A",
+  "Column3": "MA 10-12\nJU 10-12",
+  "Column4": "zoom153\nzoom23",
+  "Column5": "A. HIDALGO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 12-14\nVI 12-14",
+  "Column4": "R1-401\nzoom157",
+  "Column5": "R. ACUÑA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROCESADOR DE TEXTO Y PROGRAMACION",
+  "Column2": "CM2F2 A",
+  "Column3": "LU 12-14",
+  "Column4": "zoom157",
+  "Column5": "J. CRIBILLERO",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 20-22\nVI 20-22",
+  "Column4": "zoom90 zoom165",
+  "Column5": "J. CRIBILLERO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANALISIS EN RN",
+  "Column2": "CM3C1 A",
+  "Column3": "LU 16-18\nVI 16-18",
+  "Column4": "zoom162 zoom91",
+  "Column5": "F. VILLANUEVA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 13-16",
+  "Column4": "zoom159",
+  "Column5": "A. HIDALGO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TOPOLOGIA",
+  "Column2": "CM3I2 A",
+  "Column3": "MA 12-14\nVI 08-10",
+  "Column4": "zoom24\nzoom22",
+  "Column5": "H. GUIMARAY",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 14-16",
+  "Column4": "zoom24",
+  "Column5": "F. VILLANUEVA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANÁLISIS COMPLEJO",
+  "Column2": "CM3A1 A",
+  "Column3": "MA 10-12\nJU 10-12",
+  "Column4": "zoom70\nzoom91",
+  "Column5": "O. VELÁSQUEZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-10",
+  "Column4": "zoom69",
+  "Column5": "O. VELÁSQUEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTRODUCCION A LAS ECUACIONES DIFERENCIALES",
+  "Column2": "CM2G2 A",
+  "Column3": "LU 14-16\nMA 14-16",
+  "Column4": "zoom23 zoom70",
+  "Column5": "I. MANTILLA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 18-20",
+  "Column4": "zoom23",
+  "Column5": "A. CHULLUNCUY",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ECUACIONES DIFERENCIALES PARCIALES I",
+  "Column2": "CM4G2 A",
+  "Column3": "LU 16-18\nMI 16-18",
+  "Column4": "zoom157\nzoom155",
+  "Column5": "I. MANTILLA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 16-18",
+  "Column4": "zoom164",
+  "Column5": "I. MANTILLA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANALISIS Y MODELAMIENTO NUMERICO I",
+  "Column2": "CM4F1 A",
+  "Column3": "MI 18-20\nVI 18-20",
+  "Column4": "zoom90\nzoom22",
+  "Column5": "L. ROCA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 10-12",
+  "Column4": "zoom162",
+  "Column5": "L. PAREDES",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CM4F1 B",
+  "Column3": "MA 16-18\nJU 16-18",
+  "Column4": "zoom69\nzoom25",
+  "Column5": "A. RAMIREZ",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 10-12",
+  "Column4": "zoom89",
+  "Column5": "J. CRIBILLERO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TEORÍA LOCAL DE SUPERFICIES",
+  "Column2": "CM3I1 A",
+  "Column3": "LU 10-12\nMI 10-12",
+  "Column4": "zoom70\nzoom90",
+  "Column5": "D. ABANTO",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 10-12",
+  "Column4": "zoom22",
+  "Column5": "D. ABANTO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROGRAMACION LINEAL Y FLUJO EN REDES",
+  "Column2": "CM4E1 A",
+  "Column3": "MA 08-10\nMA 08-10\nJU 08-10\nJU 08-10",
+  "Column4": "R1-440\nzoom161 R1-440\nzoom162",
+  "Column5": "L. FLORES",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 18-20",
+  "Column4": "zoom22",
+  "Column5": "E. ORE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ESTRUCTURAS ALGEBRAICAS",
+  "Column2": "CM2I2 A",
+  "Column3": "MI 18-20\nVI 18-20",
+  "Column4": "zoom161\nzoom164",
+  "Column5": "R. MAS",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 18-20",
+  "Column4": "zoom24",
+  "Column5": "R. MAS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TEORIA DE LA MEDIDA",
+  "Column2": "CM3C2 A",
+  "Column3": "LU 14-16\nMI 16-18",
+  "Column4": "zoom157\nzoom25",
+  "Column5": "W. ECHEGARAY",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 12-14",
+  "Column4": "zoom24",
+  "Column5": "F. ESCALANTE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANALISIS FUNCIONAL I",
+  "Column2": "CM4C1 A",
+  "Column3": "MA 10-12\nJU 10-12",
+  "Column4": "zoom89\nzoom24",
+  "Column5": "M. TORIBIO",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 10-12",
+  "Column4": "zoom157",
+  "Column5": "M. TORIBIO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TEORIA DE LA PROBABILIDAD",
+  "Column2": "CM4H1 A",
+  "Column3": "MA 14-16\nJU 14-16",
+  "Column4": "zoom153\nzoom24",
+  "Column5": "W. ECHEGARAY",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 09-11",
+  "Column4": "zoom70",
+  "Column5": "J. UGARTE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANÁLISIS FUNCIONAL II",
+  "Column2": "CM4C2 A",
+  "Column3": "LU 08-10\nMI 08-10",
+  "Column4": "zoom159\nzoom24",
+  "Column5": "H. GUIMARAY",
+  "Column6": 25
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 14-16",
+  "Column4": "zoom161",
+  "Column5": "A. HIDALGO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ECUACIONES DIFERENCIALES ORDINARIAS I",
+  "Column2": "CM3G2 A",
+  "Column3": "MI 07-09\nSA 07-09",
+  "Column4": "zoom383\nzoom70",
+  "Column5": "H. VILLAVICENCIO",
+  "Column6": 25
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 20-22",
+  "Column4": "zoom23",
+  "Column5": "A. CHULLUNCUY",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANÁLISIS Y MODELAMIENTO NUMÉRICO II",
+  "Column2": "CM5F1 A",
+  "Column3": "MA 18-20\nJU 18-20",
+  "Column4": "zoom92\nzoom93",
+  "Column5": "A. RAMIREZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 14-16",
+  "Column4": "zoom90",
+  "Column5": "F. JARA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROGRAMACIÓN NO LINEAL",
+  "Column2": "CM4E2 A",
+  "Column3": "LU 18-20\nMI 18-20\nVI 18-20",
+  "Column4": "zoom70 zoom25\nzoom165",
+  "Column5": "J. CERNADES",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 12-14",
+  "Column4": "zoom24",
+  "Column5": "F. NAVARRO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTRODUCCIÓN A LOS PROCESOS ESTOCÁSTICOS",
+  "Column2": "CM5H1 A",
+  "Column3": "MA 08-10\nJU 08-10",
+  "Column4": "zoom91\nzoom91",
+  "Column5": "J. UGARTE",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 08-10",
+  "Column4": "zoom23",
+  "Column5": "J. UGARTE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS I",
+  "Column2": "CM4D2 A",
+  "Column3": "Coordinar con el asesor",
+  "Column4": null,
+  "Column5": "E. OCAÑA\nR. PEREZ\nF. ESCALANTE\nJ. ARCE\nH. VILLAVICENCIO\nI. MANTILLA\nR. METZGER\nJ. MUNGUIA",
+  "Column6": 5
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS II",
+  "Column2": "CM5D1 A",
+  "Column3": "Coordinar con el asesor",
+  "Column4": null,
+  "Column5": "F. ESCALANTE\nH. VILLAVICENCIO\nJ. UGARTE",
+  "Column6": 5
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS III",
+  "Column2": "CM5D2 A",
+  "Column3": "Coordinar con el asesor",
+  "Column4": null,
+  "Column5": "M. TORIBIO",
+  "Column6": 5
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS ELECTIVOS",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTRODUCCIÓN A LOS ELEMENTOS FINITOS",
+  "Column2": "CM090 A",
+  "Column3": "MA 16-19\nJU 16-17",
+  "Column4": "zoom25\nzoom155",
+  "Column5": "J. MUNGUIA",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 17-19",
+  "Column4": "zoom89",
+  "Column5": "J. MUNGUIA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANÁLISIS ITERATIVOS MATRICIALES",
+  "Column2": "CM039 A",
+  "Column3": "MA 18-20\nJU 18-20",
+  "Column4": "zoom70\nzoom25",
+  "Column5": "W. ECHEGARAY",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 20-22",
+  "Column4": "zoom155",
+  "Column5": "F. JARA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ESCUELA PROFESIONAL DE QUÍMICA",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUÍMICA I",
+  "Column2": "BQU01 AB",
+  "Column3": "LU 16-18\nLU 16-18\nMA 15-17\nMA 15-17",
+  "Column4": "J3-182A\nzoom153 J3-182A\nzoom93",
+  "Column5": "J. FLORES",
+  "Column6": 26
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01\nA",
+  "Column3": "MI 13-15",
+  "Column4": "zoom157",
+  "Column5": "M. DÁVILA\nR. SAYÁN",
+  "Column6": 13
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01\nB",
+  "Column3": "MI 17-19",
+  "Column4": "zoom69",
+  "Column5": "A. CORZO",
+  "Column6": 13
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01 CD",
+  "Column3": "LU 10-12\nLU 10-12\nMI 10-12\nMI 10-12",
+  "Column4": "J3-232\nzoom153 J3-232\nzoom24",
+  "Column5": "K. DURAND",
+  "Column6": 26
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01\nC",
+  "Column3": "VI 10-12",
+  "Column4": "zoom89",
+  "Column5": "M. DÁVILA\nE. CARPIO",
+  "Column6": 13
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01\nD",
+  "Column3": "JU 12-14",
+  "Column4": "zoom157",
+  "Column5": "R. SAYÁN\nM. DÁVILA",
+  "Column6": 13
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01 EF",
+  "Column3": "MA 10-12\nMA 10-12\nJU 10-12\nJU 10-12",
+  "Column4": "J3-162A\nzoom157 J3-182A\nzoom157",
+  "Column5": "R. SAYÁN",
+  "Column6": 26
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01\nE",
+  "Column3": "MA 13-15",
+  "Column4": "zoom93",
+  "Column5": "R. SAYÁN\nE. CARPIO",
+  "Column6": 13
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01\nF",
+  "Column3": "MA 17-19",
+  "Column4": "zoom93",
+  "Column5": "J. FLORES",
+  "Column6": 13
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01 GH",
+  "Column3": "MA 08-10\nMA 08-10\nJU 08-10\nJU 08-10",
+  "Column4": "J3-182B\nzoom157 R1-430\nzoom157",
+  "Column5": "G. MUEDAS",
+  "Column6": 26
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01\nG",
+  "Column3": "MA 13-15",
+  "Column4": "zoom159",
+  "Column5": "A. DAMIAN\nJ. FLORES",
+  "Column6": 13
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BQU01\nH",
+  "Column3": "MA 15-17",
+  "Column4": "zoom159",
+  "Column5": "R. SAYÁN\nE. CARPIO",
+  "Column6": 13
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUÍMICA CIENCIA Y\nTECNOLOGÍA",
+  "Column2": "CQ132\nA",
+  "Column3": "MI 16-18\nMI 16-18",
+  "Column4": "R1-421\nzoom89",
+  "Column5": "J. MORALES",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUÍMICA EXPERIMENTAL",
+  "Column2": "CQ102\nA",
+  "Column3": "JU 16-20",
+  "Column4": "zoom156",
+  "Column5": "G. BERETTA",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTRODUCCION A LA ELECTRICIDAD Y MAGNETISMO",
+  "Column2": "CQ221 A",
+  "Column3": "MI 14-16\nMI 14-16\nVI 12-14",
+  "Column4": "J3-182A\nzoom161 zoom69",
+  "Column5": "R. SALAZAR",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 11-13\nMA 11-13",
+  "Column4": "J3-162B\nzoom155",
+  "Column5": "R. SALAZAR\nG. CORTEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ELEMENTOS QUÍMICOS, PROPIEDADES Y APLICACIONES",
+  "Column2": "CQ241 A",
+  "Column3": "MA 16-18\nMA 16-18\nVI 08-10",
+  "Column4": "R1-460\nzoom161 zoom93",
+  "Column5": "G. BERETTA",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-12",
+  "Column4": "zoom154",
+  "Column5": "H. AGUILAR\nR. PASTRANA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "HIDROCARBUROS ALIFÁTICOS, ALCOHOLES Y DERIVADOS",
+  "Column2": "CQ261 A",
+  "Column3": "MA 08-10\nMA 08-10\nVI 10-12",
+  "Column4": "J3-182A\nzoom92 zoom70",
+  "Column5": "V. REYNA",
+  "Column6": 10
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 14-18",
+  "Column4": "zoom70",
+  "Column5": "E. CÓNDOR\nV. REYNA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PRINCIPIOS DE FISICOQUÍMICA",
+  "Column2": "CQ271 A",
+  "Column3": "MA 14-16\nMA 14-16\nJU 12-14\nJU 12-14",
+  "Column4": "R1-430\nzoom163 R1-430\nzoom160",
+  "Column5": "M. FERNÁNDEZ",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 16-20",
+  "Column4": "zoom159",
+  "Column5": "M. FERNÁNDEZ\nG. MUEDAS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ESTRUCTURA QUÍMICA Y REACTIVIDAD",
+  "Column2": "CQ242 A",
+  "Column3": "LU 16-18\nLU 16-18\nVI 08-10",
+  "Column4": "R1-460\nzoom160 zoom159",
+  "Column5": "M. CARLOS",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 14-18",
+  "Column4": "zoom155",
+  "Column5": "H. AGUILAR",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "COMPUESTOS CARBONÍLICOS Y AROMÁTICOS",
+  "Column2": "CQ262 A",
+  "Column3": "MA 08-10\nMA 08-10\nMI 13-15\nMI 13-15",
+  "Column4": "J3-162A\nzoom165 J3-182B\nzoom158",
+  "Column5": "E. CÓNDOR",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-12",
+  "Column4": "zoom160",
+  "Column5": "E. CÓNDOR",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FUNDAMENTOS DE ELECTROQUÍMICA",
+  "Column2": "CQ272 A",
+  "Column3": "MA 14-16\nMA 14-16\nJU 17-19\nJU 17-19",
+  "Column4": "R1-401\nzoom24 R1-421\nzoom155",
+  "Column5": "A. BAENA",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 15-19",
+  "Column4": "zoom154",
+  "Column5": "M. FERNÁNDEZ\nJ. RUIZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "METODOS NUMERICOS APLICADOS A LA QUIMICA",
+  "Column2": "CQ300 A",
+  "Column3": "MI 14-15\nVI 16-18",
+  "Column4": "zoom152\nzoom156",
+  "Column5": "R. ACUÑA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 14-16\nJU 14-16",
+  "Column4": "J3-182A\nzoom160",
+  "Column5": "R. ACUÑA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TRATAMIENTO ESTADISTICO EN QUIMICA ANALITICA",
+  "Column2": "CQ381 A",
+  "Column3": "MA 18-20\nMA 18-20",
+  "Column4": "R1-450\nzoom161",
+  "Column5": "U. QUIROZ",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 16-18\nVI 16-18",
+  "Column4": "R1-401\nzoom25",
+  "Column5": "U. QUIROZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUIMICA DE COORDINACION",
+  "Column2": "CQ301 A",
+  "Column3": "MA 14-16\nMA 14-16\nVI 08-10",
+  "Column4": "R1-421\nzoom158 zoom154",
+  "Column5": "A. VALDERRAMA",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-12",
+  "Column4": "zoom165",
+  "Column5": "H. GONTARUK",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CINETICA QUIMICA Y FENOMENOS DE SUPERFICIE",
+  "Column2": "CQ371 A",
+  "Column3": "MA 11-13\nVI 11-13",
+  "Column4": "zoom160\nzoom159",
+  "Column5": "R. LÓPEZ",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 16-20",
+  "Column4": "zoom152",
+  "Column5": "A. DAMIAN\nJ. CCONISLLA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUIMICA DE COLOIDES Y NANOPARTICULAS",
+  "Column2": "CQ372 A",
+  "Column3": "MA 11-13\nMA 11-13\nJU 11-13\nJU 11-13",
+  "Column4": "R1-430\nzoom154 R1-411\nzoom154",
+  "Column5": "A. DAMIAN",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 08-10",
+  "Column4": "zoom164",
+  "Column5": "A. DAMIAN",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUÍMICA ANALÍTICA",
+  "Column2": "CQ2E2 AB",
+  "Column3": "MA 10-12\nMA 10-12\nVI 10-12",
+  "Column4": "R1-440\nzoom92 zoom93",
+  "Column5": "P. LÓPEZ",
+  "Column6": 22
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CQ2E2\nA",
+  "Column3": "MI 08-12",
+  "Column4": "zoom160",
+  "Column5": "J. CCONISLLA",
+  "Column6": 11
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CQ2E2\nB",
+  "Column3": "JU 10-14",
+  "Column4": "zoom92",
+  "Column5": "R. LÓPEZ\nK. CHANGANAQUI",
+  "Column6": 11
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUIMICA INORGANICA APLICADA",
+  "Column2": "CQ302 A",
+  "Column3": "MA 14-16\nMA 14-16\nVI 08-10",
+  "Column4": "R1-440\nzoom156 zoom89",
+  "Column5": "H. GONTARUK",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-12",
+  "Column4": "zoom158",
+  "Column5": "H. GONTARUK",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUIMICA CUANTICA",
+  "Column2": "CQ4E1 A",
+  "Column3": "MI 20-22\nMI 20-22\nJU 16-18\nJU 16-18",
+  "Column4": "R1-401\nzoom22 R1-411\nzoom91",
+  "Column5": "A. CORZO",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 18-20\nJU 18-20",
+  "Column4": "R1-411\nzoom91",
+  "Column5": "A. CORZO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TECNICAS ESPECTROSCOPICAS EN QUIMICA ANALITICA",
+  "Column2": "CQ382 A",
+  "Column3": "MA 18-20\nMA 20-22\nVI 14-16",
+  "Column4": "R1-421\nzoom89 zoom161",
+  "Column5": "U. QUIROZ",
+  "Column6": 10
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 13-17",
+  "Column4": "zoom165",
+  "Column5": "J. CCONISLLA\nK. CHANGANAQUI",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CARBOHIDRATOS, AMINOACIDOS Y HETEROCICLICOS",
+  "Column2": "CQ361 A",
+  "Column3": "MA 08-10\nMA 08-10\nJU 12-14\nJU 12-14",
+  "Column4": "J3-162B\nzoom156 J3-162A\nzoom70",
+  "Column5": "J. FLORES",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 14-18",
+  "Column4": "zoom93",
+  "Column5": "K. DURAND",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MICROBIOLOGIA",
+  "Column2": "CQ401 A",
+  "Column3": "MI 14-16\nMI 14-16",
+  "Column4": "R1-401\nzoom163",
+  "Column5": "J. ZARRIA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 14-16",
+  "Column4": "zoom156",
+  "Column5": "J. ZARRIA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TECNICAS ELECTROQUIMICAS Y CROMATOGRAFICAS EN QUIMICA ANALITICA",
+  "Column2": "CQ491 A",
+  "Column3": "MA 14-16\nMA 14-16\nJU 10-12\nJU 10-12",
+  "Column4": "R1-411\nzoom90 R1-401\nzoom70",
+  "Column5": "C. JACINTO",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 08-12",
+  "Column4": "zoom156",
+  "Column5": "J. CCONISLLA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "IDENTIFICACION ESPECTROSCOPICA DE COMPUESTOS ORGANICOS",
+  "Column2": "CQ392 A",
+  "Column3": "MI 10-12\nMI 10-12\nVI 10-12",
+  "Column4": "J3-182B\nzoom155 zoom154",
+  "Column5": "V. TORPOCO",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 15-18\nJU 08-11",
+  "Column4": "zoom158\nzoom159",
+  "Column5": "V. TORPOCO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TÉCNICAS DE\nCARACTERIZACIÓN DE",
+  "Column2": "CQ402\nA",
+  "Column3": "JU 20-22",
+  "Column4": "zoom155",
+  "Column5": "J. MORALES",
+  "Column6": 12
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 16-18",
+  "Column4": "zoom90",
+  "Column5": "J. MORALES",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUIMICA Y GESTION AMBIENTAL",
+  "Column2": "CQ431 A",
+  "Column3": "MA 08-10\nMA 08-10\nMI 11-13\nMI 11-13",
+  "Column4": "R1-450\nzoom159 R1-125A\nzoom158",
+  "Column5": "P. LÓPEZ",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 14-18",
+  "Column4": "zoom93",
+  "Column5": "I. MAZA\nP. LÓPEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "SEMINARIO DE ELABORACION DE LA TESIS PROFESIONAL",
+  "Column2": "CQ461 A",
+  "Column3": "MI 16-17\nMI 16-17",
+  "Column4": "R1-411\nzoom70",
+  "Column5": "A. BAENA",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 17-19\nMI 17-19",
+  "Column4": "R1-411\nzoom70",
+  "Column5": "A. BAENA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUIMICA DE MATERIALES",
+  "Column2": "CQ472 A",
+  "Column3": "MA 16-18\nMA 16-18\nJU 16-18\nJU 16-18",
+  "Column4": "R1-440\nzoom158 R1-430\nzoom160",
+  "Column5": "H. ALARCÓN",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 16-20",
+  "Column4": "zoom23",
+  "Column5": "J. VEGA\nJ. RUIZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROCESOS QUIMICOS INDUSTRIALES",
+  "Column2": "CQ501 A",
+  "Column3": "LU 18-20\nLU 18-20\nMA 17-19\nMA 17-19",
+  "Column4": "R1-401\nzoom160 R1-411\nzoom89",
+  "Column5": "M. DÁVILA",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 13-15",
+  "Column4": "zoom154",
+  "Column5": "M. DÁVILA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "GESTION DE LA CALIDAD DE LABORATORIOS",
+  "Column2": "CQ482 A",
+  "Column3": "MA 18-20\nMA 18-20",
+  "Column4": "R1-401\nzoom23",
+  "Column5": "K. CHANGANAQUI",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 18-20\nVI 18-20",
+  "Column4": "R1-401\nzoom25",
+  "Column5": "K. CHANGANAQUI",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "DISEÑO ORGANIZACIONAL Y SEGURIDAD EN EL\nLABORATORIO",
+  "Column2": "CQ511 A",
+  "Column3": "MA 10-12\nMA 10-12",
+  "Column4": "R1-401\nzoom163",
+  "Column5": "K. CHANGANAQUI",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 15-17",
+  "Column4": "zoom158",
+  "Column5": "K. CHANGANAQUI",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS ELECTIVOS",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CATÁLISIS QUÍMICA",
+  "Column2": "CQ063 A",
+  "Column3": "MA 12-14\nMA 12-14\nMI 12-14\nMI 12-14",
+  "Column4": "R1-240A\nzoom157 R1-240A\nzoom24",
+  "Column5": "G. PICASSO",
+  "Column6": 12
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 10-14",
+  "Column4": "zoom155",
+  "Column5": "J. VEGA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUÍMICA BIOINORGÁNICA",
+  "Column2": "CQ037 A",
+  "Column3": "MA 16-18\nMA 16-18\nJU 16-18\nJU 16-18",
+  "Column4": "R1-430\nzoom156 R1-440\nzoom164",
+  "Column5": "A. VALDERRAMA",
+  "Column6": 12
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 16-20",
+  "Column4": "zoom162",
+  "Column5": "R. PASTRANA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ELECTROQUÍMICA APLICADA",
+  "Column2": "CQ013 A",
+  "Column3": "JU 16-18\nJU 16-18\nVI 14-16",
+  "Column4": "R1-401\nzoom90 zoom157",
+  "Column5": "A. LA ROSA TORO",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 16-20",
+  "Column4": "zoom163",
+  "Column5": "J. RUIZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "QUIMIOMETRÍA",
+  "Column2": "CQ085 A",
+  "Column3": "MA 16-19\nMA 16-19",
+  "Column4": "SALA 3\nzoom24",
+  "Column5": "C. JACINTO",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 18-21",
+  "Column4": "zoom160",
+  "Column5": "C. JACINTO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ESCUELA PROFESIONAL DE INGENIERÍA FÍSICA",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTRODUCCIÓN A LA\nMETROLOGÍA",
+  "Column2": "IF242\nA",
+  "Column3": "JU 10-12",
+  "Column4": "zoom165",
+  "Column5": "J. DÍAZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 16-19",
+  "Column4": "zoom24",
+  "Column5": "C. PAUCARCHUCO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "DIBUJO Y DISEÑO PARA INGENIERIA",
+  "Column2": "IF281\nA",
+  "Column3": "LU 17-19",
+  "Column4": "zoom156",
+  "Column5": "D. HUAMANÍ",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 16-20",
+  "Column4": "zoom70",
+  "Column5": "D. HUAMANÍ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "IF281\nB",
+  "Column3": "MA 10-12",
+  "Column4": "zoom93",
+  "Column5": "H. HUANCA",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 08-12",
+  "Column4": "zoom159",
+  "Column5": "H. HUANCA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MÉTODOS MATEMÁTICOS PARA INGENIERÍA",
+  "Column2": "IF252 A",
+  "Column3": "LU 16-18\nMI 18-20\nSA 16-18",
+  "Column4": "zoom158 zoom163\nzoom90",
+  "Column5": "J. DÍAZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 14-18\nJU 14-18",
+  "Column4": "J3-162B\nzoom157",
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INGENIERÍA DE PROCESOS MECÁNICOS",
+  "Column2": "IF292 A",
+  "Column3": "MI 08-09\nMI 08-09",
+  "Column4": "R2-152\nzoom152",
+  "Column5": "H. HUANCA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 10-13\nMI 10-13",
+  "Column4": "R2-152\nzoom152",
+  "Column5": "H. HUANCA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INGENIERÍA DE INSTALACIONES INDUSTRIALES",
+  "Column2": "IF294 A",
+  "Column3": "LU 08-09",
+  "Column4": "zoom165",
+  "Column5": "O. ROJAS",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 09-12\nLU 09-12",
+  "Column4": "R1-192\nzoom165",
+  "Column5": "O. ROJAS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CÁLCULO NUMÉRICO I",
+  "Column2": "IF321 A",
+  "Column3": "MI 14-16\nVI 14-16",
+  "Column4": "zoom162\nzoom70",
+  "Column5": "D. LAURA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 12-16\nLU 12-16",
+  "Column4": "R1-450\nzoom152",
+  "Column5": "D. LAURA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FISICA TERMICA II",
+  "Column2": "IF325 A",
+  "Column3": "JU 14-16",
+  "Column4": "zoom162",
+  "Column5": "M. QUINTANA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 16-18\nMA 16-18",
+  "Column4": "R1-450\nzoom23",
+  "Column5": "A. HUAMÁN\nC. PAUCARCHUCO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FISICA TERMICA I",
+  "Column2": "IF352 A",
+  "Column3": "LU 14-16\nMI 16-18",
+  "Column4": "zoom90\nzoom163",
+  "Column5": "M. QUINTANA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 14-16\nJU 14-16",
+  "Column4": "R1-125B\nzoom154",
+  "Column5": "W. ESTRADA\nA. HUAMÁN",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROCESAMIENTO DE SEÑALES\nY DATOS",
+  "Column2": "IF3B2\nA",
+  "Column3": "LU 16-18",
+  "Column4": "zoom164",
+  "Column5": "G. COMINA",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-11",
+  "Column4": "zoom158",
+  "Column5": "L. SÁNCHEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ELECTROMAGNETISMO PARA INGENIERÍA",
+  "Column2": "IF372 A",
+  "Column3": "LU 08-10\nMI 14-16",
+  "Column4": "zoom152\nzoom22",
+  "Column5": "R. PEREZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 16-18",
+  "Column4": "zoom160",
+  "Column5": "L. SÁNCHEZ\nR. PEREZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CÁLCULO NUMERICO II",
+  "Column2": "IF392 A",
+  "Column3": "MA 13-16",
+  "Column4": "zoom160",
+  "Column5": "C. SOLANO",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 10-13\nJU 10-13",
+  "Column4": "R1-125B\nzoom156",
+  "Column5": "C. SOLANO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INGENIERIA ECONOMICA",
+  "Column2": "IF3A2\nA",
+  "Column3": "JU 08-10",
+  "Column4": "zoom70",
+  "Column5": "C. CERVANTES",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MECÁNICA CUÁNTICA",
+  "Column2": "IF411 A",
+  "Column3": "LU 10-13\nVI 12-15",
+  "Column4": "zoom154\nzoom89",
+  "Column5": "R. PEREZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 16-19",
+  "Column4": "zoom92",
+  "Column5": "D. HUAMANÍ\nA. HUAMÁN",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TEORÍA DE CONTROL",
+  "Column2": "IF462 A",
+  "Column3": "LU 16-18\nJU 14-16",
+  "Column4": "zoom159\nzoom92",
+  "Column5": "L. SÁNCHEZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 16-18\nMI 17-18",
+  "Column4": "zoom156\nJ3-182B",
+  "Column5": "L. SÁNCHEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "SISTEMAS DIGITALES",
+  "Column2": "IF471 A",
+  "Column3": "LU 14-15\nLU 14-15",
+  "Column4": "R2-323\nzoom69",
+  "Column5": "G. CASTILLO",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 15-18\nLU 15-18\nMI 14-18\nMI 14-18",
+  "Column4": "R2-323\nzoom69 R2-323\nzoom331",
+  "Column5": "G. CASTILLO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "IF471 B",
+  "Column3": "MI 08-09\nMI 08-09",
+  "Column4": "R2-323\nzoom331",
+  "Column5": "G. CASTILLO",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 09-12\nMI 09-12\nVI 08-12\nVI 08-12",
+  "Column4": "R2-323\nzoom331 R2-323\nzoom25",
+  "Column5": "G. CASTILLO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTRODUCCIÓN A LA CIENCIA E INGENIERÍA DE LOS MATERIALES",
+  "Column2": "IF482 A",
+  "Column3": "MI 08-10\nJU 08-10",
+  "Column4": "zoom159\nzoom156",
+  "Column5": "J. SOLIS",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 12-14\nMA 12-14",
+  "Column4": "R1-450\nzoom158",
+  "Column5": "H. HUANCA\nA. HUAMÁN",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INGENIERÍA SOLAR",
+  "Column2": "IF492 A",
+  "Column3": "LU 10-12\nMI 10-12",
+  "Column4": "zoom155\nzoom93",
+  "Column5": "M. GOMEZ",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 11-13\nJU 11-13",
+  "Column4": "R1-450\nzoom159",
+  "Column5": "O. ROJAS\nM. HORN",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MECANICA DE FLUIDOS",
+  "Column2": "IF4A1\nA",
+  "Column3": "SA 15-17",
+  "Column4": "zoom91",
+  "Column5": "C. PAUCARCHUCO",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 17-18",
+  "Column4": "zoom91",
+  "Column5": "C. PAUCARCHUCO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS I",
+  "Column2": "IF4A2\nA",
+  "Column3": "MA 08-10",
+  "Column4": "zoom163",
+  "Column5": "W. ESTRADA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 14-18",
+  "Column4": "zoom158",
+  "Column5": "J. RODRÍGUEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "METODOLOGIA DE LA\nINVESTIGACION CIENTIFICA",
+  "Column2": "IF4B1\nA",
+  "Column3": "MA 19-21",
+  "Column4": "zoom160",
+  "Column5": "J. DÍAZ",
+  "Column6": 25
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 21-22",
+  "Column4": "zoom160",
+  "Column5": "J. DÍAZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE INSTRUMENTACIÓN ELECTRÓNICA",
+  "Column2": "IF511 A",
+  "Column3": "MI 10-12\nMI 10-12",
+  "Column4": "R1-125B\nzoom69",
+  "Column5": "G. COMINA",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 08-10\nMI 08-10\nVI 08-10\nVI 08-10\nVI 10-11\nVI 10-11",
+  "Column4": "R1-125B\nzoom69 R1-125B\nzoom156 R1-125B\nzoom156",
+  "Column5": "G. COMINA O.ROJAS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS II",
+  "Column2": "IF543 A",
+  "Column3": "Coordinar con el asesor",
+  "Column4": null,
+  "Column5": "M. GOMEZ\nM. QUINTANA\nC. SOLANO\nJ. SOLIS\nA. GUTARRA\nG. COMINA\nJ. RODRÍGUEZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS III",
+  "Column2": "IF554\nA",
+  "Column3": "Coordinar con\nel asesor",
+  "Column4": null,
+  "Column5": "M. GOMEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TÉCNICAS FÍSICAS PARA LA INDUSTRIA",
+  "Column2": "IF562 A",
+  "Column3": "JU 08-10\nJU 08-10",
+  "Column4": "R1-192\nzoom158",
+  "Column5": "A. GUTARRA",
+  "Column6": 16
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 10-12\nJU 10-12",
+  "Column4": "R1-192\nzoom158",
+  "Column5": "A. GUTARRA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "IF562\nA1",
+  "Column3": "MA 08-12\nMA 08-12",
+  "Column4": "R1-192\nzoom158",
+  "Column5": "A. GUTARRA\nA. HUAMÁN",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS ELECTIVOS",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TOPICOS ESPECIALES DE\nINGENIERIA FISICA I",
+  "Column2": "IFE22\nA",
+  "Column3": "LU 14-18",
+  "Column4": "zoom328",
+  "Column5": "P. GARCÍA",
+  "Column6": 12
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 10-12",
+  "Column4": "zoom157",
+  "Column5": "P. GARCÍA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TOPICOS ESPECIALES DE INGENIERIA FISICA VII\n(ENERGYPLUS AVANZADO)",
+  "Column2": "IFE28 A",
+  "Column3": "SA 07-08",
+  "Column4": "zoom22",
+  "Column5": "M. GOMEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TOPICOS ESPECIALES DE INGENIERIA FISICA VIII\n(CÁLCULO NUMÉRICO",
+  "Column2": "IFE29 A",
+  "Column3": "MA 10-12",
+  "Column4": "zoom23",
+  "Column5": "D. LAURA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 08-10\nJU 08-10",
+  "Column4": "R1-450\nzoom165",
+  "Column5": "D. LAURA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ESCUELA PROFESIONAL DE CIENCIA DE LA COMPUTACIÓN",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTRODUCCIÓN A LA COMPUTACIÓN",
+  "Column2": "BIC01\nA",
+  "Column3": "SA 08-09",
+  "Column4": "zoom91",
+  "Column5": "G. ARRUNÁTEGUI",
+  "Column6": 35
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 10-12",
+  "Column4": "zoom91",
+  "Column5": "S. VALER",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BIC01\nB",
+  "Column3": "SA 11-12",
+  "Column4": "zoom24",
+  "Column5": "A. CHULLUNCUY",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 12-14",
+  "Column4": "zoom24",
+  "Column5": "A. CHULLUNCUY",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BIC01\nC",
+  "Column3": "SA 15-16",
+  "Column4": "zoom69",
+  "Column5": "M. ALANIA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 16-18",
+  "Column4": "zoom69",
+  "Column5": "M. ALANIA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BIC01\nD",
+  "Column3": "SA 09-10",
+  "Column4": "zoom90",
+  "Column5": "G. ARRUNÁTEGUI",
+  "Column6": 35
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 10-12",
+  "Column4": "zoom90",
+  "Column5": "L. NAVARRO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BIC01\nE",
+  "Column3": "SA 11-12",
+  "Column4": "zoom25",
+  "Column5": "M. ALANIA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 12-14",
+  "Column4": "zoom25",
+  "Column5": "M. ALANIA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BIC01\nF",
+  "Column3": "SA 15-16",
+  "Column4": "zoom70",
+  "Column5": "A. CHULLUNCUY",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 16-18",
+  "Column4": "zoom70",
+  "Column5": "A. CHULLUNCUY",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "FUNDAMENTOS DE PROGRAMACIÓN",
+  "Column2": "CC112 A",
+  "Column3": "LU 12-14\nLU 12-14",
+  "Column4": "SALA 1\nzoom156",
+  "Column5": "C. NUÑEZ",
+  "Column6": 24
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 16-20\nJU 16-20",
+  "Column4": "SALA 1\nzoom163",
+  "Column5": "C. NUÑEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CC112 B",
+  "Column3": "MA 13-15\nMA 13-15",
+  "Column4": "SALA 5\nzoom161",
+  "Column5": "Y. CCOICCA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 16-20\nJU 16-20",
+  "Column4": "SALA 5\nzoom154",
+  "Column5": "L. ROCA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CC112 C",
+  "Column3": "LU 18-20",
+  "Column4": "zoom154",
+  "Column5": "C. DIAZ",
+  "Column6": 22
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 16-20\nJU 16-20",
+  "Column4": "SALA 2\nzoom162",
+  "Column5": "C. DIAZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROGRAMACION ORIENTADA A OBJETOS",
+  "Column2": "CC211 A",
+  "Column3": "LU 07-09\nLU 07-09",
+  "Column4": "SALA 5\nzoom22",
+  "Column5": "C. BAZÁN",
+  "Column6": 35
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 09-10\nLU 09-10\nVI 07-10\nVI 07-10",
+  "Column4": "SALA 5\nzoom22 SALA 5\nzoom70",
+  "Column5": "C. BAZÁN",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ARQUITECTURA DE COMPUTADORES",
+  "Column2": "CC221\nAB",
+  "Column3": "MA 19-21\nMA 19-21",
+  "Column4": "SALA 4\nzoom156",
+  "Column5": "C. CRUZ",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CC221\nA",
+  "Column3": "JU 18-22\nJU 18-22",
+  "Column4": "SALA 4\nzoom157",
+  "Column5": "C. CRUZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CC221\nB",
+  "Column3": "VI 18-22\nVI 18-22",
+  "Column4": "SALA 4\nzoom158",
+  "Column5": "C. CRUZ",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "BASE DE DATOS",
+  "Column2": "CC202\nA",
+  "Column3": "MA 08-11",
+  "Column4": "zoom160",
+  "Column5": "V. MELCHOR",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 13-16",
+  "Column4": "zoom160",
+  "Column5": "V. MELCHOR",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "SISTEMAS OPERATIVOS",
+  "Column2": "CC222\nA",
+  "Column3": "MI 07-10",
+  "Column4": "zoom92",
+  "Column5": "C. BAZÁN",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 08-11",
+  "Column4": "zoom155",
+  "Column5": "C. BAZÁN",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ALGORITMOS Y ESTRUCTURAS\nDE DATOS",
+  "Column2": "CC232\nA",
+  "Column3": "MA 14-16",
+  "Column4": "zoom152",
+  "Column5": "C. DIAZ",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 18-22",
+  "Column4": "zoom155",
+  "Column5": "C. DIAZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANALISIS Y DISEÑO DE\nALGORITMOS",
+  "Column2": "CC371\nA",
+  "Column3": "LU 18-21",
+  "Column4": "zoom164",
+  "Column5": "J. OSORIO",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 11-14",
+  "Column4": "zoom155",
+  "Column5": "J. OSORIO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROGRAMACION PARALELA",
+  "Column2": "CC332 A",
+  "Column3": "MA 08-10",
+  "Column4": "zoom155",
+  "Column5": "J. FIESTAS",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 10-11\nVI 08-11",
+  "Column4": "zoom155\nzoom92",
+  "Column5": "J. FIESTAS",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "COMPUTACION CENTRADA EN\nREDES",
+  "Column2": "CC311\nA",
+  "Column3": "MI 18-21",
+  "Column4": "zoom152",
+  "Column5": "R. MARTINEZ",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 18-21",
+  "Column4": "zoom152",
+  "Column5": "R. MARTINEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "TEORIA DE AUTOMATAS,\nLENGUAJES Y COMPUTACION",
+  "Column2": "CC321\nA",
+  "Column3": "MA 19-22",
+  "Column4": "zoom158",
+  "Column5": "V. MELCHOR",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 15-18",
+  "Column4": "zoom154",
+  "Column5": "V. MELCHOR",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MATEMATICA COMPUTACIONAL",
+  "Column2": "CC3M2\nA",
+  "Column3": "MA 11-14",
+  "Column4": "zoom152",
+  "Column5": "A. CHULLUNCUY",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 07-10",
+  "Column4": "zoom155",
+  "Column5": "A. CHULLUNCUY",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "DESARROLLO DE SOFTWARE",
+  "Column2": "CC3S2 A",
+  "Column3": "LU 10-12",
+  "Column4": "zoom159",
+  "Column5": "C. LARA",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 12-13\nJU 08-11",
+  "Column4": "zoom159\nzoom154",
+  "Column5": "C. LARA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "SEGURIDAD EN SISTEMAS\nINFORMATICOS",
+  "Column2": "CC411\nA",
+  "Column3": "VI 15-18",
+  "Column4": "zoom93",
+  "Column5": "S. VALER",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 15-18",
+  "Column4": "zoom93",
+  "Column5": "S. VALER",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "COMPUTACION GRAFICA",
+  "Column2": "CC431 A",
+  "Column3": "JU 18-20",
+  "Column4": "zoom24",
+  "Column5": "P. MONTALVO",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 20-21\nSA 07-10",
+  "Column4": "zoom24\nzoom24",
+  "Column5": "P. MONTALVO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTELIGENCIA ARTIFICIAL",
+  "Column2": "CC421\nA",
+  "Column3": "MI 18-21",
+  "Column4": "zoom156",
+  "Column5": "C. LARA",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 15-18",
+  "Column4": "zoom155",
+  "Column5": "C. LARA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROGRAMACION CONCURRENTE Y DISTRIBUIDA",
+  "Column2": "CC4P1 A",
+  "Column3": "LU 07-09",
+  "Column4": "zoom154",
+  "Column5": "Y. NUÑEZ",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 09-10\nMA 07-10",
+  "Column4": "zoom154\nzoom154",
+  "Column5": "Y. NUÑEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INTERACCION HUMANO- COMPUTADOR",
+  "Column2": "CC451 A",
+  "Column3": "MA 14-16",
+  "Column4": "zoom91",
+  "Column5": "C. NUÑEZ",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 16-17\nMI 14-17",
+  "Column4": "zoom91\nzoom165",
+  "Column5": "C. NUÑEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INGENIERIA DE SOFTWARE",
+  "Column2": "CC341\nA",
+  "Column3": "LU 15-18",
+  "Column4": "zoom154",
+  "Column5": "G. ARRUNÁTEGUI",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 18-21",
+  "Column4": "zoom161",
+  "Column5": "G. ARRUNÁTEGUI",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ADMINISTRACION DE REDES",
+  "Column2": "CC312\nA",
+  "Column3": "MA 15-18",
+  "Column4": "zoom157",
+  "Column5": "Y. CCOICCA",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 14-17",
+  "Column4": "zoom93",
+  "Column5": "Y. CCOICCA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS I",
+  "Column2": "CC412 A",
+  "Column3": "Coordinar con el asesor",
+  "Column4": null,
+  "Column5": "J. SEGOVIA\nM. ALANIA\nJ. VALVERDE\nJ. FIESTAS\nG. ARRUNÁTEGUI",
+  "Column6": 35
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INFRAESTRUCTURAS DE\nCOMPUTACION",
+  "Column2": "CC422\nA",
+  "Column3": "LU 19-22",
+  "Column4": "zoom165",
+  "Column5": "J. LOZANO",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 19-22",
+  "Column4": "zoom93",
+  "Column5": "J. LOZANO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ROBOTICA",
+  "Column2": "CC432\nA",
+  "Column3": "MA 19-22",
+  "Column4": "zoom155",
+  "Column5": "J. LOZANO",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 19-22",
+  "Column4": "zoom160",
+  "Column5": "J. LOZANO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "MINERIA DE DATOS",
+  "Column2": "CC442\nA",
+  "Column3": "MA 10-13",
+  "Column4": "zoom161",
+  "Column5": "L. NAVARRO",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 10-13",
+  "Column4": "zoom92",
+  "Column5": "L. NAVARRO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROGRAMACION EVOLUTIVA",
+  "Column2": "CC521 A",
+  "Column3": "JU 19-21",
+  "Column4": "zoom158",
+  "Column5": "M. ALANIA",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 21-22\nSA 08-11",
+  "Column4": "zoom158\nzoom158",
+  "Column5": "M. ALANIA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ANALISIS EN MACRODATOS",
+  "Column2": "CC531 A",
+  "Column3": "MA 15-17",
+  "Column4": "zoom154",
+  "Column5": "Y. NUÑEZ",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 17-18\nMI 15-18",
+  "Column4": "zoom154\nzoom152",
+  "Column5": "Y. NUÑEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROYECTO DE TESIS III",
+  "Column2": "CC512\nA",
+  "Column3": "Coordinar con\nel asesor",
+  "Column4": null,
+  "Column5": "M. ALANIA",
+  "Column6": 15
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS ELECTIVOS",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CALIDAD DE SOFTWARE",
+  "Column2": "CC0A5\nA",
+  "Column3": "LU 18-21",
+  "Column4": "zoom159",
+  "Column5": "G. ARRUNÁTEGUI",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 18-21",
+  "Column4": "zoom159",
+  "Column5": "G. ARRUNÁTEGUI",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "COMPILADORES",
+  "Column2": "CC0E3\nA",
+  "Column3": "LU 14-17",
+  "Column4": "zoom156",
+  "Column5": "J. OSORIO",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 14-17",
+  "Column4": "zoom69",
+  "Column5": "J. OSORIO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "PROGRAMACION DE\nDISPOSITIVOS MOVILES",
+  "Column2": "CC0A2\nA",
+  "Column3": "JU 18-21",
+  "Column4": "zoom90",
+  "Column5": "R. MARTINEZ",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 18-21",
+  "Column4": "zoom89",
+  "Column5": "R. MARTINEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS DE HUMANIDADES Y COMPLEMENTARIOS",
+  "Column2": null,
+  "Column3": null,
+  "Column4": null,
+  "Column5": null,
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "CURSOS",
+  "Column2": "CÓDIGO",
+  "Column3": "HORARIO",
+  "Column4": "AULA",
+  "Column5": "DOCENTE",
+  "Column6": "N"
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ÉTICA Y FILOSOFÍA POLÍTICA",
+  "Column2": "BEF01\nA",
+  "Column3": "VI 11-12",
+  "Column4": "zoom92",
+  "Column5": "J. ROMERO",
+  "Column6": 35
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 12-14",
+  "Column4": "zoom92",
+  "Column5": "J. ROMERO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BEF01\nB",
+  "Column3": "MI 15-16",
+  "Column4": "zoom157",
+  "Column5": "J. ROMERO",
+  "Column6": 35
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 16-18",
+  "Column4": "zoom157",
+  "Column5": "J. ROMERO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BEF01\nC",
+  "Column3": "VI 19-20",
+  "Column4": "zoom163",
+  "Column5": "J. ROMERO",
+  "Column6": 35
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "VI 20-22",
+  "Column4": "zoom163",
+  "Column5": "J. ROMERO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "ECONOMÍA GENERAL",
+  "Column2": "BEG01",
+  "Column3": "LU 16-18",
+  "Column4": "zoom161",
+  "Column5": "C.VERA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "A",
+  "Column3": "MA 17-19",
+  "Column4": "zoom159",
+  "Column5": "C.VERA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BEG01\nB",
+  "Column3": "VI 08-10",
+  "Column4": "zoom24",
+  "Column5": "W. ZAVALETA",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 17-19",
+  "Column4": "zoom165",
+  "Column5": "W. ZAVALETA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BEG01\nC",
+  "Column3": "LU 16-18",
+  "Column4": "zoom25",
+  "Column5": "R. CLAVIJO",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 16-18",
+  "Column4": "zoom152",
+  "Column5": "R. CLAVIJO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "REDACCIÓN Y COMUNICACIÓN",
+  "Column2": "BRC01\nA",
+  "Column3": "SA 09-10",
+  "Column4": "zoom23",
+  "Column5": "L. GOMEZ",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 10-12",
+  "Column4": "zoom23",
+  "Column5": "L. GOMEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BRC01 B",
+  "Column3": "MA 14-15\nMA 14-15",
+  "Column4": "J3-162B\nzoom155",
+  "Column5": "E. EVANGELISTA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 15-17\nMA 15-17",
+  "Column4": "J3-162B\nzoom155",
+  "Column5": "E. EVANGELISTA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BRC01 C",
+  "Column3": "LU 13-14\nLU 13-14",
+  "Column4": "J3-162A\nzoom163",
+  "Column5": "E. EVANGELISTA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 14-16\nLU 14-16",
+  "Column4": "J3-162A\nzoom163",
+  "Column5": "E. EVANGELISTA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BRC01\nD",
+  "Column3": "SA 13-14",
+  "Column4": "zoom23",
+  "Column5": "E. EVANGELISTA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 14-16",
+  "Column4": "zoom23",
+  "Column5": "E. EVANGELISTA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+  "Column2": "BRN01\nA",
+  "Column3": "SA 14-16",
+  "Column4": "zoom165",
+  "Column5": "R. CLAVIJO",
+  "Column6": 29
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 16-18",
+  "Column4": "zoom165",
+  "Column5": "R. CLAVIJO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BRN01\nB",
+  "Column3": "SA 08-10",
+  "Column4": "zoom160",
+  "Column5": "R. CLAVIJO",
+  "Column6": 29
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 10-12",
+  "Column4": "zoom160",
+  "Column5": "R. CLAVIJO",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BRN01\nC",
+  "Column3": "MA 18-20",
+  "Column4": "zoom162",
+  "Column5": "L. GOMEZ",
+  "Column6": 29
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 20-22",
+  "Column4": "zoom162",
+  "Column5": "L. GOMEZ",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BRN01\nD",
+  "Column3": "SA 14-16",
+  "Column4": "zoom163",
+  "Column5": "P. CCANRE",
+  "Column6": 29
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "SA 16-18",
+  "Column4": "zoom163",
+  "Column5": "P. CCANRE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BRN01\nE",
+  "Column3": "JU 16-18",
+  "Column4": "zoom69",
+  "Column5": "P. CCANRE",
+  "Column6": 29
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 18-20",
+  "Column4": "zoom69",
+  "Column5": "P. CCANRE",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "BRN01\nF",
+  "Column3": "JU 16-18",
+  "Column4": "zoom22",
+  "Column5": "U.HUMALA",
+  "Column6": 29
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 18-20",
+  "Column4": "zoom22",
+  "Column5": "U.HUMALA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "METODOLOGIA DE LA\nINVESTIGACION",
+  "Column2": "CC4H1\nA",
+  "Column3": "MA 18-19",
+  "Column4": "zoom157",
+  "Column5": "J. SEGOVIA",
+  "Column6": 45
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 19-21",
+  "Column4": "zoom157",
+  "Column5": "J. SEGOVIA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "BIOLOGÍA",
+  "Column2": "CH061\nAB",
+  "Column3": "VI 17-19",
+  "Column4": "zoom24",
+  "Column5": "P. GARCÍA",
+  "Column6": 40
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CH061\nA",
+  "Column3": "MA 10-12",
+  "Column4": "zoom383",
+  "Column5": "P. GARCÍA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CH061\nB",
+  "Column3": "MI 12-14",
+  "Column4": "zoom25",
+  "Column5": "P. GARCÍA",
+  "Column6": 20
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": "INGLÉS I",
+  "Column2": "CL002\nA",
+  "Column3": "LU 18-19",
+  "Column4": "zoom162",
+  "Column5": "C. CCAHUANCAMA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "LU 19-22",
+  "Column4": "zoom162",
+  "Column5": "C. CCAHUANCAMA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CL002\nB",
+  "Column3": "MA 18-20",
+  "Column4": "zoom154",
+  "Column5": "C. CCAHUANCAMA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MA 20-22",
+  "Column4": "zoom154",
+  "Column5": "C. CCAHUANCAMA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CL002\nC",
+  "Column3": "MI 18-19",
+  "Column4": "zoom157",
+  "Column5": "C. CCAHUANCAMA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "MI 19-22",
+  "Column4": "zoom157",
+  "Column5": "C. CCAHUANCAMA",
+  "Column6": null
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": "CL002\nD",
+  "Column3": "JU 13-14",
+  "Column4": "zoom89",
+  "Column5": "C. CCAHUANCAMA",
+  "Column6": 30
+ },
+ {
+  "CURSOS OFRECIDOS EN EL PERIODO ACADÉMICO 2022-1": null,
+  "Column2": null,
+  "Column3": "JU 14-17",
+  "Column4": "zoom89",
+  "Column5": "C. CCAHUANCAMA",
+  "Column6": null
+ }
+]

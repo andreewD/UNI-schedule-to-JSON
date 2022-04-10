@@ -1,0 +1,2737 @@
+[
+  {
+    "name": "ESCUELA PROFESIONAL DE FÍSICA",
+    "courses": [
+      {
+        "name": "FÍSICA I",
+        "sections": [
+          {
+            "code": "BFI01 A",
+            "times": [
+              { "schedule": "LU 10-12\nMI 10-12", "teacher": "M. BROCCA" },
+              {
+                "schedule": "VI 08-10\nVI 08-10 (P)\nVI 13-15\nVI 13-15 (L)",
+                "teacher": "M. INGA\nM. CUYUBAMBA"
+              }
+            ]
+          },
+          {
+            "code": "BFI01 B",
+            "times": [
+              { "schedule": "LU 14-16\nMI 14-16", "teacher": "M. BROCCA" },
+              {
+                "schedule": "VI 08-10\nVI 08-10 (P)\nVI 08-10\nVI 08-10 (L)",
+                "teacher": "R. SALAZAR\nS. CUSTODIO"
+              }
+            ]
+          },
+          {
+            "code": "BFI01 C",
+            "times": [
+              { "schedule": "MA 08-10\nJU 08-10", "teacher": "M. CUYUBAMBA" },
+              {
+                "schedule": "VI 08-10\nVI 08-10 (P)\nVI 10-12\nVI 10-12 (L)",
+                "teacher": "S. RODRÍGUEZ\nG. CORTEZ"
+              }
+            ]
+          },
+          {
+            "code": "BFI01 D",
+            "times": [
+              { "schedule": "MA 10-12\nVI 10-12", "teacher": "A. ALTAMIRANO" },
+              {
+                "schedule": "VI 08-10\nVI 08-10 (P)\nJU 10-12\nJU 10-12 (L)",
+                "teacher": "G. CORTEZ\nS. RODRÍGUEZ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FÍSICA II",
+        "sections": [
+          {
+            "code": "CF1B2 A",
+            "times": [
+              { "schedule": "LU 10-12\nMI 10-12", "teacher": "S. CUSTODIO" },
+              {
+                "schedule": "VI 08-10\nVI 08-10 (P)\nVI 14-17\nVI 14-17 (L)",
+                "teacher": "R. SALAZAR\nS. RODRÍGUEZ"
+              }
+            ]
+          },
+          {
+            "code": "CF1B2 B",
+            "times": [
+              { "schedule": "MA 08-10\nJU 08-10", "teacher": "M. ZEVALLOS" },
+              {
+                "schedule": "VI 08-10\nVI 08-10 (P)\nMA 13-16\nMA 13-16 (L)",
+                "teacher": "C. ONCEBAY"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "LABORATORIO DE FISICA INTERMEDIA",
+        "sections": [
+          {
+            "code": "CF4E1 A",
+            "times": [
+              {
+                "schedule": "MA 08-12\nMA 08-12\nJU 08-12\nJU 08-12",
+                "teacher": "B. PUJADA\nC. EYZAGUIRRE"
+              }
+            ]
+          },
+          {
+            "code": "CF4E1 B",
+            "times": [
+              {
+                "schedule": "MI 08-12\nMI 08-12\nVI 08-12\nVI 08-12",
+                "teacher": "S. PETRICK\nC. CASTROMONTE"
+              }
+            ]
+          },
+          {
+            "code": "CF4E1 C",
+            "times": [
+              {
+                "schedule": "MI 14-18\nMI 14-18\nSA 09-13\nSA 09-13",
+                "teacher": "D. RUEDA\nC. CASTROMONTE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FISICA III",
+        "sections": [
+          {
+            "code": "CF2B1 A",
+            "times": [
+              { "schedule": "LU 08-10\nMI 08-10", "teacher": "S. CUSTODIO" },
+              {
+                "schedule": "VI 10-12\nVI 10-12 (P)\nVI 16-19\nVI 16-19 (L)",
+                "teacher": "G. CORTEZ"
+              }
+            ]
+          },
+          {
+            "code": "CF2B1 B",
+            "times": [
+              { "schedule": "LU 10-12\nMI 10-12", "teacher": "R. SALAZAR" },
+              {
+                "schedule": "VI 10-12\nVI 10-12 (P)\nJU 16-19\nJU 16-19 (L)",
+                "teacher": "G. CORTEZ\nC. ONCEBAY"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "LABORATORIO DE FISICA AVANZADA",
+        "sections": [
+          {
+            "code": "CF4E2 A",
+            "times": [
+              {
+                "schedule": "LU 08-12\nLU 08-12\nMI 08-12\nMI 08-12",
+                "teacher": "A. VALERA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "OPTICA CLASICA",
+        "sections": [
+          {
+            "code": "CF2B2 A",
+            "times": [
+              { "schedule": "LU 14-16\nMI 14-16", "teacher": "J. AMORETTI" },
+              {
+                "schedule": "VI 10-12 (P)\nMA 10-13\nMA 10-13 (L)",
+                "teacher": "M. CUYUBAMBA\nA. PAREDES"
+              }
+            ]
+          },
+          {
+            "code": "CF2B2 B",
+            "times": [
+              { "schedule": "MI 14-16\nVI 14-16", "teacher": "M. ZEVALLOS" },
+              {
+                "schedule": "VI 10-12 (P)\nLU 13-16\nLU 13-16 (L)",
+                "teacher": "S. CUSTODIO"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ÁLGEBRA LINEAL PARA FÍSICOS I",
+        "sections": [
+          {
+            "code": "CF1C2 A",
+            "times": [
+              { "schedule": "MA 10-12\nJU 10-12", "teacher": "E. VIDALÓN" },
+              {
+                "schedule": "MI 08-10\nMI 08-10",
+                "teacher": "M. CUYUBAMBA\nS. RODRÍGUEZ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ALGEBRA LINEAL PARA FISICOS II",
+        "sections": [
+          {
+            "code": "CF2C1 A",
+            "times": [
+              { "schedule": "MA 16-18\nVI 14-16", "teacher": "D. SOTO" },
+              { "schedule": "LU 13-16", "teacher": "A. PAREDES" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "METODOS MATEMATICOS PARA FÍSICOS I",
+        "sections": [
+          {
+            "code": "CF2C2 A",
+            "times": [
+              {
+                "schedule": "LU 08-10\nMI 08-10\nVI 08-10",
+                "teacher": "R. TOVAR"
+              },
+              { "schedule": "MA 14-17", "teacher": "A. ALTAMIRANO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MECÁNICA CLÁSICA",
+        "sections": [
+          {
+            "code": "CF3F1 A",
+            "times": [
+              {
+                "schedule": "LU 08-10\nMI 08-10\nVI 08-10",
+                "teacher": "J. TELLO"
+              },
+              { "schedule": "SA 08-11", "teacher": "M. CUYUBAMBA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MECÁNICA CUÁNTICA I",
+        "sections": [
+          {
+            "code": "CF3F2 A",
+            "times": [
+              { "schedule": "MA 10-12\nJU 10-12", "teacher": "O. PEREYRA" },
+              { "schedule": "MI 16-20", "teacher": "H. DÍAZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FISICA MODERNA",
+        "sections": [
+          {
+            "code": "CF3F3 A",
+            "times": [
+              {
+                "schedule": "LU 14-16\nLU 14-16\nMI 14-16\nMI 14-16",
+                "teacher": "S. PETRICK"
+              },
+              { "schedule": "VI 15-18", "teacher": "M. INGA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CIRCUITOS ELECTRONICOS ANALOGICOS",
+        "sections": [
+          {
+            "code": "CF3E1 A",
+            "times": [
+              {
+                "schedule": "MA 08-12\nMA 08-12\nJU 08-12\nJU 08-12",
+                "teacher": "A. ORCCOHUARANCCA\nC. ONCEBAY"
+              }
+            ]
+          },
+          {
+            "code": "CF3E1 B",
+            "times": [
+              {
+                "schedule": "MA 14-18\nMA 14-18\nVI 14-18\nVI 14-18",
+                "teacher": "C. RONDINEL A.\nORCCOHUARANCCA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "METODOS MATEMATICOS PARA FISICOS II",
+        "sections": [
+          {
+            "code": "CF3C1 A",
+            "times": [
+              {
+                "schedule": "LU 10-12\nMI 10-12\nVI 10-12",
+                "teacher": "E. VIDALÓN"
+              },
+              { "schedule": "JU 14-17", "teacher": "A. ALTAMIRANO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ELECTROMAGNETISMO I",
+        "sections": [
+          {
+            "code": "CF3F4 A",
+            "times": [
+              {
+                "schedule": "LU 08-10\nMA 08-10\nJU 08-10",
+                "teacher": "R. OCHOA"
+              },
+              { "schedule": "LU 14-18", "teacher": "A. ALTAMIRANO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TERMODINAMICA Y MECANICA ESTADISTICA",
+        "sections": [
+          {
+            "code": "CF4F1 A",
+            "times": [
+              { "schedule": "LU 08-10\nMI 08-10", "teacher": "H. LORO" },
+              { "schedule": "MA 14-18", "teacher": "A. PAREDES" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MECANICA CUANTICA II",
+        "sections": [
+          {
+            "code": "CF4F3 A",
+            "times": [
+              { "schedule": "MI 10-12\nVI 10-12", "teacher": "R. TOVAR" },
+              { "schedule": "VI 14-18", "teacher": "H. DÍAZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FISICA ATOMICA Y MOLECULAR",
+        "sections": [
+          {
+            "code": "CF4F2 A",
+            "times": [
+              { "schedule": "MA 10-12\nJU 10-12", "teacher": "J. BELTRÁN" },
+              { "schedule": "VI 13-16", "teacher": "A. ALTAMIRANO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FISICA DEL ESTADO SOLIDO I",
+        "sections": [
+          {
+            "code": "CF5F1 A",
+            "times": [
+              { "schedule": "LU 16-18\nMI 16-18", "teacher": "M. LEÓN" },
+              { "schedule": "VI 16-20", "teacher": "S. CUSTODIO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS I",
+        "sections": [
+          {
+            "code": "CF4D2 A",
+            "times": [
+              {
+                "schedule": "Coordinar con el asesor",
+                "teacher": "R. OCHOA\nR. TOVAR\nJ. TELLO\nO. PEREYRA\nH. DÍAZ\nA. VALERA\nH. LORO"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS II",
+        "sections": [
+          {
+            "code": "CF5D1 A",
+            "times": [
+              {
+                "schedule": "Coordinar con el asesor",
+                "teacher": "J. TELLO\nC. EYZAGUIRRE\nH. LORO"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FISICA NUCLEAR Y DE PARTICULAS",
+        "sections": [
+          {
+            "code": "CF5F3 A",
+            "times": [
+              {
+                "schedule": "MA 18-20\nMI 18-20\nJU 18-20",
+                "teacher": "J. AMORETTI"
+              },
+              { "schedule": "LU 18-21", "teacher": "J. AMORETTI" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS III",
+        "sections": [
+          {
+            "code": "CF5D2 A",
+            "times": [
+              { "schedule": "Coordinar con el asesor", "teacher": null }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CURSOS ELECTIVOS",
+        "sections": [
+          { "code": null, "times": [{ "schedule": null, "teacher": null }] }
+        ]
+      },
+      {
+        "name": "INTRODUCCIÓN A LA ELECTRODINÁMICA CUÁNTICA",
+        "sections": [
+          {
+            "code": "CF076 A",
+            "times": [
+              { "schedule": "LU 10-12\nMA 14-16", "teacher": "O. PEREYRA" },
+              { "schedule": "JU 08-12", "teacher": "O. CASTILLO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MÉTODOS NUMÉRICOS",
+        "sections": [
+          {
+            "code": "CF060 A",
+            "times": [
+              { "schedule": "LU 16-18\nMI 16-18", "teacher": "A. D. PAREDES" },
+              { "schedule": "LU 18-20", "teacher": "A. D. PAREDES" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TÓPICOS ESPECIALES I",
+        "sections": [
+          {
+            "code": "CF001\nA",
+            "times": [
+              { "schedule": "LU 10-12\nMI 14-16", "teacher": "D. SOTO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ELECTROMAGNETISMO II",
+        "sections": [
+          {
+            "code": "CF049 A",
+            "times": [
+              {
+                "schedule": "LU 14-16\nMA 12-14\nJU 14-16",
+                "teacher": "D. SOTO"
+              },
+              { "schedule": "SA 14-16", "teacher": "D. SOTO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INTRODUCCION A LA ASTRONOMIA",
+        "sections": [
+          {
+            "code": "CF046 A",
+            "times": [
+              { "schedule": "MI 10-12\nVI 17-19", "teacher": "M. ZEVALLOS" },
+              { "schedule": "LU 14-18\nLU 14-18", "teacher": "M. ZEVALLOS" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESCUELA PROFESIONAL DE MATEMÁTICA",
+    "courses": [
+      {
+        "name": "CÁLCULO DIFERENCIAL",
+        "sections": [
+          {
+            "code": "BMA01 A",
+            "times": [
+              {
+                "schedule": "MA 08-10\nMA 08-10\nVI 10-12\nVI 10-12",
+                "teacher": "G. PANIZO"
+              },
+              { "schedule": "LU 08-10\nLU 08-10", "teacher": "B. OSTOS" }
+            ]
+          },
+          {
+            "code": "BMA01 B",
+            "times": [
+              { "schedule": "MA 10-12\nMA 10-12", "teacher": "J. VALVERDE" },
+              { "schedule": "LU 08-10\nLU 08-10", "teacher": "L. LA ROSA" }
+            ]
+          },
+          {
+            "code": "BMA01 C",
+            "times": [
+              { "schedule": "LU 14-16\nLU 14-16", "teacher": "F. VILLANUEVA" },
+              { "schedule": "LU 08-10\nLU 08-10", "teacher": "E. ORE" }
+            ]
+          },
+          {
+            "code": "BMA01 D",
+            "times": [
+              {
+                "schedule": "LU 10-12\nLU 10-12\nMI 10-12\nMI 10-12",
+                "teacher": "R. METZGER"
+              },
+              { "schedule": "LU 08-10\nLU 08-10", "teacher": "L. ROCA" }
+            ]
+          },
+          {
+            "code": "BMA01 E",
+            "times": [
+              {
+                "schedule": "MA 10-12\nMA 10-12\nJU 10-12",
+                "teacher": "J. PALACIOS"
+              },
+              { "schedule": "LU 08-10\nLU 08-10", "teacher": "J. PALACIOS" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ÁLGEBRA LINEAL",
+        "sections": [
+          {
+            "code": "BMA03 A",
+            "times": [
+              { "schedule": "MA 10-12\nJU 10-12", "teacher": "J. ZAMUDIO" },
+              { "schedule": "MI 08-10\nMI 08-10", "teacher": "E. ORE" }
+            ]
+          },
+          {
+            "code": "BMA03 B",
+            "times": [
+              { "schedule": "MA 08-10\nJU 08-10", "teacher": "R. ACUÑA" },
+              { "schedule": "MI 08-10\nMI 08-10", "teacher": "R. ACUÑA" }
+            ]
+          },
+          {
+            "code": "BMA03 C",
+            "times": [
+              { "schedule": "MA 15-17\nJU 14-16", "teacher": "L. ROCA" },
+              { "schedule": "MI 08-10\nMI 08-10", "teacher": "L. PAREDES" }
+            ]
+          },
+          {
+            "code": "BMA03 D",
+            "times": [
+              { "schedule": "JU 14-16\nVI 14-16", "teacher": "A. CHULLUNCUY" },
+              { "schedule": "MI 08-10\nMI 08-10", "teacher": "J. CRIBILLERO" }
+            ]
+          },
+          {
+            "code": "BMA03 E",
+            "times": [
+              { "schedule": "MA 14-16\nVI 14-16", "teacher": "G. PANIZO" },
+              { "schedule": "MI 08-10\nMI 08-10", "teacher": "G. PANIZO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CÁLCULO INTEGRAL",
+        "sections": [
+          {
+            "code": "BMA02 A",
+            "times": [
+              { "schedule": "MA 08-10\nJU 08-10", "teacher": "F. ESCALANTE" },
+              {
+                "schedule": "LU 08-10\nLU 08-10",
+                "teacher": "F. ESCALANTE\nF. NAVARRO"
+              }
+            ]
+          },
+          {
+            "code": "BMA02 B",
+            "times": [
+              {
+                "schedule": "LU 10-12\nLU 10-12\nVI 10-12\nVI 10-12",
+                "teacher": "D. CAYTUIRO"
+              },
+              { "schedule": "LU 08-10\nLU 08-10", "teacher": "D. CAYTUIRO" }
+            ]
+          },
+          {
+            "code": "BMA02 C",
+            "times": [
+              { "schedule": "LU 14-16\nMI 14-16", "teacher": "J. CRIBILLERO" },
+              { "schedule": "LU 08-10\nLU 08-10", "teacher": "R. ACUÑA" }
+            ]
+          },
+          {
+            "code": "BMA02 D",
+            "times": [
+              {
+                "schedule": "MA 16-18\nMA 16-18\nJU 16-18\nJU 16-18",
+                "teacher": "E. ORE"
+              },
+              { "schedule": "LU 08-10\nLU 08-10", "teacher": "J. ZAMUDIO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "LÓGICA Y TEORÍA DE CONJUNTOS",
+        "sections": [
+          {
+            "code": "CM1A2 A",
+            "times": [
+              { "schedule": "SA 08-12\nSA 08-12", "teacher": "L. LA ROSA" },
+              { "schedule": "LU 14-16\nLU 14-16", "teacher": "L. LA ROSA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MATEMÁTICA DISCRETA",
+        "sections": [
+          {
+            "code": "CM2H1 A",
+            "times": [
+              { "schedule": "MI 16-18\nVI 16-18", "teacher": "R. MAS" },
+              { "schedule": "SA 12-14\nSA 12-14", "teacher": "R. MAS" }
+            ]
+          },
+          {
+            "code": "CM2H1 B",
+            "times": [
+              {
+                "schedule": "MA 10-12\nMA 10-12\nJU 10-12\nJU 10-12",
+                "teacher": "J. MAYTA"
+              },
+              { "schedule": "SA 12-14\nSA 12-14", "teacher": "J. MAYTA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROGRAMACIÓN ESTRUCTURADA",
+        "sections": [
+          {
+            "code": "CM2F1 A",
+            "times": [
+              { "schedule": "MI 14-16\nMI 14-16", "teacher": "L. ROCA" },
+              {
+                "schedule": "MA 12-14\nMA 12-14\nJU 12-14\nJU 12-14",
+                "teacher": "R. PEREZ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CÁLCULO DE PROBABILIDADES",
+        "sections": [
+          {
+            "code": "CM1H2 A",
+            "times": [
+              { "schedule": "MA 14-16", "teacher": "J. ZAMUDIO" },
+              { "schedule": "LU 12-14\nLU 12-14", "teacher": "J. ZAMUDIO" }
+            ]
+          },
+          {
+            "code": "CM1H2 B",
+            "times": [
+              { "schedule": "JU 10-12\nJU 10-12", "teacher": "J. MUNGUIA" },
+              { "schedule": "LU 12-14\nLU 12-14", "teacher": "J. MUNGUIA" }
+            ]
+          },
+          {
+            "code": "CM1H2 C",
+            "times": [
+              { "schedule": "MI 16-18", "teacher": "L. NAVARRO" },
+              { "schedule": "LU 12-14\nLU 12-14", "teacher": "L. NAVARRO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CÁLCULO DIFERENCIAL E INTEGRAL AVANZADO",
+        "sections": [
+          {
+            "code": "CM2A1 A",
+            "times": [
+              {
+                "schedule": "LU 10-12\nMI 10-12\nSA 10-12",
+                "teacher": "M. QUIÑONES"
+              },
+              {
+                "schedule": "MA 08-10\nMA 08-10\nJU 08-10",
+                "teacher": "J. ZAMUDIO\nJ. SULCA"
+              }
+            ]
+          },
+          {
+            "code": "CM2A1 B",
+            "times": [
+              {
+                "schedule": "JU 08-10\nVI 10-12\nSA 08-10",
+                "teacher": "F. JARA"
+              },
+              {
+                "schedule": "MA 08-10\nMA 08-10\nMI 18-20",
+                "teacher": "L. PAREDES\nB. OSTOS"
+              }
+            ]
+          },
+          {
+            "code": "CM2A1 C",
+            "times": [
+              {
+                "schedule": "LU 14-16\nLU 14-16\nMI 14-16\nMI 14-16\nVI 18-20\nVI 18-20",
+                "teacher": "J. SULCA"
+              },
+              {
+                "schedule": "MA 08-10\nMA 08-10\nVI 14-16",
+                "teacher": "J. SULCA\nD. ABANTO"
+              }
+            ]
+          },
+          {
+            "code": "CM2A1 D",
+            "times": [
+              {
+                "schedule": "MI 16-18\nMI 16-18\nJU 16-18\nJU 16-18\nVI 16-18\nVI 16-18",
+                "teacher": "L. PAREDES"
+              },
+              {
+                "schedule": "MA 08-10\nMA 08-10\nMI 08-10",
+                "teacher": "E. ORE\nF. JARA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ESTADISTICA INFERENCIAL",
+        "sections": [
+          {
+            "code": "CM2H2\nA",
+            "times": [
+              { "schedule": "MA 16-18", "teacher": "J. ZAMUDIO" },
+              { "schedule": "JU 14-16", "teacher": "J. ZAMUDIO" }
+            ]
+          },
+          {
+            "code": "CM2H2\nB",
+            "times": [
+              { "schedule": "MA 10-12", "teacher": "J. UGARTE" },
+              { "schedule": "JU 14-16", "teacher": "J. UGARTE" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANALISIS REAL",
+        "sections": [
+          {
+            "code": "CM2A2 A",
+            "times": [
+              {
+                "schedule": "MA 08-10\nJU 08-10\nSA 08-10",
+                "teacher": "J. CERNADES"
+              },
+              {
+                "schedule": "MA 20-22\nMI 16-18",
+                "teacher": "J. SULCA\nF. VILLANUEVA"
+              }
+            ]
+          },
+          {
+            "code": "CM2A2 B",
+            "times": [
+              {
+                "schedule": "MA 08-10\nJU 08-10\nSA 08-10",
+                "teacher": "M. QUIÑONES"
+              },
+              {
+                "schedule": "MA 20-22\nMI 08-10",
+                "teacher": "B. OSTOS\nB. OSTOS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANALISIS CONVEXO",
+        "sections": [
+          {
+            "code": "CM3E2 A",
+            "times": [
+              { "schedule": "MA 16-18\nJU 16-18", "teacher": "E. OCAÑA" },
+              { "schedule": "VI 16-18", "teacher": "F. NAVARRO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ÁLGEBRA LINEAL I",
+        "sections": [
+          {
+            "code": "CM1B2 A",
+            "times": [
+              {
+                "schedule": "MA 10-12\nMA 10-12\nJU 10-12\nJU 10-12",
+                "teacher": "F. NAVARRO"
+              },
+              { "schedule": "MI 08-10\nMI 08-10", "teacher": "F. NAVARRO" }
+            ]
+          },
+          {
+            "code": "CM1B2 B",
+            "times": [
+              { "schedule": "MA 17-19\nMI 08-10", "teacher": "A. HIDALGO" },
+              { "schedule": "MI 08-10\nMI 08-10", "teacher": "D. CAYTUIRO" }
+            ]
+          },
+          {
+            "code": "CM1B2 C",
+            "times": [
+              { "schedule": "LU 18-20\nMI 18-20", "teacher": "J. ARCE" },
+              { "schedule": "MI 08-10\nMI 08-10", "teacher": "J. PALACIOS" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ÁLGEBRA LINEAL II",
+        "sections": [
+          {
+            "code": "CM2B1 A",
+            "times": [
+              { "schedule": "MA 10-12\nJU 10-12", "teacher": "A. HIDALGO" },
+              { "schedule": "VI 12-14\nVI 12-14", "teacher": "R. ACUÑA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROCESADOR DE TEXTO Y PROGRAMACION",
+        "sections": [
+          {
+            "code": "CM2F2 A",
+            "times": [
+              { "schedule": "LU 12-14", "teacher": "J. CRIBILLERO" },
+              { "schedule": "MI 20-22\nVI 20-22", "teacher": "J. CRIBILLERO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANALISIS EN RN",
+        "sections": [
+          {
+            "code": "CM3C1 A",
+            "times": [
+              { "schedule": "LU 16-18\nVI 16-18", "teacher": "F. VILLANUEVA" },
+              { "schedule": "MI 13-16", "teacher": "A. HIDALGO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TOPOLOGIA",
+        "sections": [
+          {
+            "code": "CM3I2 A",
+            "times": [
+              { "schedule": "MA 12-14\nVI 08-10", "teacher": "H. GUIMARAY" },
+              { "schedule": "VI 14-16", "teacher": "F. VILLANUEVA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANÁLISIS COMPLEJO",
+        "sections": [
+          {
+            "code": "CM3A1 A",
+            "times": [
+              { "schedule": "MA 10-12\nJU 10-12", "teacher": "O. VELÁSQUEZ" },
+              { "schedule": "LU 08-10", "teacher": "O. VELÁSQUEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INTRODUCCION A LAS ECUACIONES DIFERENCIALES",
+        "sections": [
+          {
+            "code": "CM2G2 A",
+            "times": [
+              { "schedule": "LU 14-16\nMA 14-16", "teacher": "I. MANTILLA" },
+              { "schedule": "JU 18-20", "teacher": "A. CHULLUNCUY" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ECUACIONES DIFERENCIALES PARCIALES I",
+        "sections": [
+          {
+            "code": "CM4G2 A",
+            "times": [
+              { "schedule": "LU 16-18\nMI 16-18", "teacher": "I. MANTILLA" },
+              { "schedule": "VI 16-18", "teacher": "I. MANTILLA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANALISIS Y MODELAMIENTO NUMERICO I",
+        "sections": [
+          {
+            "code": "CM4F1 A",
+            "times": [
+              { "schedule": "MI 18-20\nVI 18-20", "teacher": "L. ROCA" },
+              { "schedule": "MI 10-12", "teacher": "L. PAREDES" }
+            ]
+          },
+          {
+            "code": "CM4F1 B",
+            "times": [
+              { "schedule": "MA 16-18\nJU 16-18", "teacher": "A. RAMIREZ" },
+              { "schedule": "MI 10-12", "teacher": "J. CRIBILLERO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TEORÍA LOCAL DE SUPERFICIES",
+        "sections": [
+          {
+            "code": "CM3I1 A",
+            "times": [
+              { "schedule": "LU 10-12\nMI 10-12", "teacher": "D. ABANTO" },
+              { "schedule": "SA 10-12", "teacher": "D. ABANTO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROGRAMACION LINEAL Y FLUJO EN REDES",
+        "sections": [
+          {
+            "code": "CM4E1 A",
+            "times": [
+              {
+                "schedule": "MA 08-10\nMA 08-10\nJU 08-10\nJU 08-10",
+                "teacher": "L. FLORES"
+              },
+              { "schedule": "LU 18-20", "teacher": "E. ORE" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ESTRUCTURAS ALGEBRAICAS",
+        "sections": [
+          {
+            "code": "CM2I2 A",
+            "times": [
+              { "schedule": "MI 18-20\nVI 18-20", "teacher": "R. MAS" },
+              { "schedule": "LU 18-20", "teacher": "R. MAS" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TEORIA DE LA MEDIDA",
+        "sections": [
+          {
+            "code": "CM3C2 A",
+            "times": [
+              { "schedule": "LU 14-16\nMI 16-18", "teacher": "W. ECHEGARAY" },
+              { "schedule": "LU 12-14", "teacher": "F. ESCALANTE" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANALISIS FUNCIONAL I",
+        "sections": [
+          {
+            "code": "CM4C1 A",
+            "times": [
+              { "schedule": "MA 10-12\nJU 10-12", "teacher": "M. TORIBIO" },
+              { "schedule": "VI 10-12", "teacher": "M. TORIBIO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TEORIA DE LA PROBABILIDAD",
+        "sections": [
+          {
+            "code": "CM4H1 A",
+            "times": [
+              { "schedule": "MA 14-16\nJU 14-16", "teacher": "W. ECHEGARAY" },
+              { "schedule": "SA 09-11", "teacher": "J. UGARTE" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANÁLISIS FUNCIONAL II",
+        "sections": [
+          {
+            "code": "CM4C2 A",
+            "times": [
+              { "schedule": "LU 08-10\nMI 08-10", "teacher": "H. GUIMARAY" },
+              { "schedule": "LU 14-16", "teacher": "A. HIDALGO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ECUACIONES DIFERENCIALES ORDINARIAS I",
+        "sections": [
+          {
+            "code": "CM3G2 A",
+            "times": [
+              {
+                "schedule": "MI 07-09\nSA 07-09",
+                "teacher": "H. VILLAVICENCIO"
+              },
+              { "schedule": "VI 20-22", "teacher": "A. CHULLUNCUY" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANÁLISIS Y MODELAMIENTO NUMÉRICO II",
+        "sections": [
+          {
+            "code": "CM5F1 A",
+            "times": [
+              { "schedule": "MA 18-20\nJU 18-20", "teacher": "A. RAMIREZ" },
+              { "schedule": "VI 14-16", "teacher": "F. JARA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROGRAMACIÓN NO LINEAL",
+        "sections": [
+          {
+            "code": "CM4E2 A",
+            "times": [
+              {
+                "schedule": "LU 18-20\nMI 18-20\nVI 18-20",
+                "teacher": "J. CERNADES"
+              },
+              { "schedule": "VI 12-14", "teacher": "F. NAVARRO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INTRODUCCIÓN A LOS PROCESOS ESTOCÁSTICOS",
+        "sections": [
+          {
+            "code": "CM5H1 A",
+            "times": [
+              { "schedule": "MA 08-10\nJU 08-10", "teacher": "J. UGARTE" },
+              { "schedule": "VI 08-10", "teacher": "J. UGARTE" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS I",
+        "sections": [
+          {
+            "code": "CM4D2 A",
+            "times": [
+              {
+                "schedule": "Coordinar con el asesor",
+                "teacher": "E. OCAÑA\nR. PEREZ\nF. ESCALANTE\nJ. ARCE\nH. VILLAVICENCIO\nI. MANTILLA\nR. METZGER\nJ. MUNGUIA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS II",
+        "sections": [
+          {
+            "code": "CM5D1 A",
+            "times": [
+              {
+                "schedule": "Coordinar con el asesor",
+                "teacher": "F. ESCALANTE\nH. VILLAVICENCIO\nJ. UGARTE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS III",
+        "sections": [
+          {
+            "code": "CM5D2 A",
+            "times": [
+              { "schedule": "Coordinar con el asesor", "teacher": "M. TORIBIO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CURSOS ELECTIVOS",
+        "sections": [
+          { "code": null, "times": [{ "schedule": null, "teacher": null }] }
+        ]
+      },
+      {
+        "name": "INTRODUCCIÓN A LOS ELEMENTOS FINITOS",
+        "sections": [
+          {
+            "code": "CM090 A",
+            "times": [
+              { "schedule": "MA 16-19\nJU 16-17", "teacher": "J. MUNGUIA" },
+              { "schedule": "JU 17-19", "teacher": "J. MUNGUIA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANÁLISIS ITERATIVOS MATRICIALES",
+        "sections": [
+          {
+            "code": "CM039 A",
+            "times": [
+              { "schedule": "MA 18-20\nJU 18-20", "teacher": "W. ECHEGARAY" },
+              { "schedule": "LU 20-22", "teacher": "F. JARA" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESCUELA PROFESIONAL DE QUÍMICA",
+    "courses": [
+      {
+        "name": "QUÍMICA I",
+        "sections": [
+          {
+            "code": "BQU01 AB",
+            "times": [
+              {
+                "schedule": "LU 16-18\nLU 16-18\nMA 15-17\nMA 15-17",
+                "teacher": "J. FLORES"
+              }
+            ]
+          },
+          {
+            "code": "BQU01\nA",
+            "times": [
+              { "schedule": "MI 13-15", "teacher": "M. DÁVILA\nR. SAYÁN" }
+            ]
+          },
+          {
+            "code": "BQU01\nB",
+            "times": [{ "schedule": "MI 17-19", "teacher": "A. CORZO" }]
+          },
+          {
+            "code": "BQU01 CD",
+            "times": [
+              {
+                "schedule": "LU 10-12\nLU 10-12\nMI 10-12\nMI 10-12",
+                "teacher": "K. DURAND"
+              }
+            ]
+          },
+          {
+            "code": "BQU01\nC",
+            "times": [
+              { "schedule": "VI 10-12", "teacher": "M. DÁVILA\nE. CARPIO" }
+            ]
+          },
+          {
+            "code": "BQU01\nD",
+            "times": [
+              { "schedule": "JU 12-14", "teacher": "R. SAYÁN\nM. DÁVILA" }
+            ]
+          },
+          {
+            "code": "BQU01 EF",
+            "times": [
+              {
+                "schedule": "MA 10-12\nMA 10-12\nJU 10-12\nJU 10-12",
+                "teacher": "R. SAYÁN"
+              }
+            ]
+          },
+          {
+            "code": "BQU01\nE",
+            "times": [
+              { "schedule": "MA 13-15", "teacher": "R. SAYÁN\nE. CARPIO" }
+            ]
+          },
+          {
+            "code": "BQU01\nF",
+            "times": [{ "schedule": "MA 17-19", "teacher": "J. FLORES" }]
+          },
+          {
+            "code": "BQU01 GH",
+            "times": [
+              {
+                "schedule": "MA 08-10\nMA 08-10\nJU 08-10\nJU 08-10",
+                "teacher": "G. MUEDAS"
+              }
+            ]
+          },
+          {
+            "code": "BQU01\nG",
+            "times": [
+              { "schedule": "MA 13-15", "teacher": "A. DAMIAN\nJ. FLORES" }
+            ]
+          },
+          {
+            "code": "BQU01\nH",
+            "times": [
+              { "schedule": "MA 15-17", "teacher": "R. SAYÁN\nE. CARPIO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUÍMICA CIENCIA Y\nTECNOLOGÍA",
+        "sections": [
+          {
+            "code": "CQ132\nA",
+            "times": [
+              { "schedule": "MI 16-18\nMI 16-18", "teacher": "J. MORALES" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUÍMICA EXPERIMENTAL",
+        "sections": [
+          {
+            "code": "CQ102\nA",
+            "times": [{ "schedule": "JU 16-20", "teacher": "G. BERETTA" }]
+          }
+        ]
+      },
+      {
+        "name": "INTRODUCCION A LA ELECTRICIDAD Y MAGNETISMO",
+        "sections": [
+          {
+            "code": "CQ221 A",
+            "times": [
+              {
+                "schedule": "MI 14-16\nMI 14-16\nVI 12-14",
+                "teacher": "R. SALAZAR"
+              },
+              {
+                "schedule": "MA 11-13\nMA 11-13",
+                "teacher": "R. SALAZAR\nG. CORTEZ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ELEMENTOS QUÍMICOS, PROPIEDADES Y APLICACIONES",
+        "sections": [
+          {
+            "code": "CQ241 A",
+            "times": [
+              {
+                "schedule": "MA 16-18\nMA 16-18\nVI 08-10",
+                "teacher": "G. BERETTA"
+              },
+              { "schedule": "MI 08-12", "teacher": "H. AGUILAR\nR. PASTRANA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "HIDROCARBUROS ALIFÁTICOS, ALCOHOLES Y DERIVADOS",
+        "sections": [
+          {
+            "code": "CQ261 A",
+            "times": [
+              {
+                "schedule": "MA 08-10\nMA 08-10\nVI 10-12",
+                "teacher": "V. REYNA"
+              },
+              { "schedule": "LU 14-18", "teacher": "E. CÓNDOR\nV. REYNA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PRINCIPIOS DE FISICOQUÍMICA",
+        "sections": [
+          {
+            "code": "CQ271 A",
+            "times": [
+              {
+                "schedule": "MA 14-16\nMA 14-16\nJU 12-14\nJU 12-14",
+                "teacher": "M. FERNÁNDEZ"
+              },
+              { "schedule": "JU 16-20", "teacher": "M. FERNÁNDEZ\nG. MUEDAS" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ESTRUCTURA QUÍMICA Y REACTIVIDAD",
+        "sections": [
+          {
+            "code": "CQ242 A",
+            "times": [
+              {
+                "schedule": "LU 16-18\nLU 16-18\nVI 08-10",
+                "teacher": "M. CARLOS"
+              },
+              { "schedule": "VI 14-18", "teacher": "H. AGUILAR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "COMPUESTOS CARBONÍLICOS Y AROMÁTICOS",
+        "sections": [
+          {
+            "code": "CQ262 A",
+            "times": [
+              {
+                "schedule": "MA 08-10\nMA 08-10\nMI 13-15\nMI 13-15",
+                "teacher": "E. CÓNDOR"
+              },
+              { "schedule": "LU 08-12", "teacher": "E. CÓNDOR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FUNDAMENTOS DE ELECTROQUÍMICA",
+        "sections": [
+          {
+            "code": "CQ272 A",
+            "times": [
+              {
+                "schedule": "MA 14-16\nMA 14-16\nJU 17-19\nJU 17-19",
+                "teacher": "A. BAENA"
+              },
+              { "schedule": "MI 15-19", "teacher": "M. FERNÁNDEZ\nJ. RUIZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "METODOS NUMERICOS APLICADOS A LA QUIMICA",
+        "sections": [
+          {
+            "code": "CQ300 A",
+            "times": [
+              { "schedule": "MI 14-15\nVI 16-18", "teacher": "R. ACUÑA" },
+              { "schedule": "JU 14-16\nJU 14-16", "teacher": "R. ACUÑA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TRATAMIENTO ESTADISTICO EN QUIMICA ANALITICA",
+        "sections": [
+          {
+            "code": "CQ381 A",
+            "times": [
+              { "schedule": "MA 18-20\nMA 18-20", "teacher": "U. QUIROZ" },
+              { "schedule": "VI 16-18\nVI 16-18", "teacher": "U. QUIROZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUIMICA DE COORDINACION",
+        "sections": [
+          {
+            "code": "CQ301 A",
+            "times": [
+              {
+                "schedule": "MA 14-16\nMA 14-16\nVI 08-10",
+                "teacher": "A. VALDERRAMA"
+              },
+              { "schedule": "MI 08-12", "teacher": "H. GONTARUK" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CINETICA QUIMICA Y FENOMENOS DE SUPERFICIE",
+        "sections": [
+          {
+            "code": "CQ371 A",
+            "times": [
+              { "schedule": "MA 11-13\nVI 11-13", "teacher": "R. LÓPEZ" },
+              { "schedule": "JU 16-20", "teacher": "A. DAMIAN\nJ. CCONISLLA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUIMICA DE COLOIDES Y NANOPARTICULAS",
+        "sections": [
+          {
+            "code": "CQ372 A",
+            "times": [
+              {
+                "schedule": "MA 11-13\nMA 11-13\nJU 11-13\nJU 11-13",
+                "teacher": "A. DAMIAN"
+              },
+              { "schedule": "MA 08-10", "teacher": "A. DAMIAN" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUÍMICA ANALÍTICA",
+        "sections": [
+          {
+            "code": "CQ2E2 AB",
+            "times": [
+              {
+                "schedule": "MA 10-12\nMA 10-12\nVI 10-12",
+                "teacher": "P. LÓPEZ"
+              }
+            ]
+          },
+          {
+            "code": "CQ2E2\nA",
+            "times": [{ "schedule": "MI 08-12", "teacher": "J. CCONISLLA" }]
+          },
+          {
+            "code": "CQ2E2\nB",
+            "times": [
+              { "schedule": "JU 10-14", "teacher": "R. LÓPEZ\nK. CHANGANAQUI" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUIMICA INORGANICA APLICADA",
+        "sections": [
+          {
+            "code": "CQ302 A",
+            "times": [
+              {
+                "schedule": "MA 14-16\nMA 14-16\nVI 08-10",
+                "teacher": "H. GONTARUK"
+              },
+              { "schedule": "LU 08-12", "teacher": "H. GONTARUK" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUIMICA CUANTICA",
+        "sections": [
+          {
+            "code": "CQ4E1 A",
+            "times": [
+              {
+                "schedule": "MI 20-22\nMI 20-22\nJU 16-18\nJU 16-18",
+                "teacher": "A. CORZO"
+              },
+              { "schedule": "JU 18-20\nJU 18-20", "teacher": "A. CORZO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TECNICAS ESPECTROSCOPICAS EN QUIMICA ANALITICA",
+        "sections": [
+          {
+            "code": "CQ382 A",
+            "times": [
+              {
+                "schedule": "MA 18-20\nMA 20-22\nVI 14-16",
+                "teacher": "U. QUIROZ"
+              },
+              {
+                "schedule": "LU 13-17",
+                "teacher": "J. CCONISLLA\nK. CHANGANAQUI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CARBOHIDRATOS, AMINOACIDOS Y HETEROCICLICOS",
+        "sections": [
+          {
+            "code": "CQ361 A",
+            "times": [
+              {
+                "schedule": "MA 08-10\nMA 08-10\nJU 12-14\nJU 12-14",
+                "teacher": "J. FLORES"
+              },
+              { "schedule": "MI 14-18", "teacher": "K. DURAND" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MICROBIOLOGIA",
+        "sections": [
+          {
+            "code": "CQ401 A",
+            "times": [
+              { "schedule": "MI 14-16\nMI 14-16", "teacher": "J. ZARRIA" },
+              { "schedule": "VI 14-16", "teacher": "J. ZARRIA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TECNICAS ELECTROQUIMICAS Y CROMATOGRAFICAS EN QUIMICA ANALITICA",
+        "sections": [
+          {
+            "code": "CQ491 A",
+            "times": [
+              {
+                "schedule": "MA 14-16\nMA 14-16\nJU 10-12\nJU 10-12",
+                "teacher": "C. JACINTO"
+              },
+              { "schedule": "LU 08-12", "teacher": "J. CCONISLLA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "IDENTIFICACION ESPECTROSCOPICA DE COMPUESTOS ORGANICOS",
+        "sections": [
+          {
+            "code": "CQ392 A",
+            "times": [
+              {
+                "schedule": "MI 10-12\nMI 10-12\nVI 10-12",
+                "teacher": "V. TORPOCO"
+              },
+              { "schedule": "MI 15-18\nJU 08-11", "teacher": "V. TORPOCO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TÉCNICAS DE\nCARACTERIZACIÓN DE",
+        "sections": [
+          {
+            "code": "CQ402\nA",
+            "times": [
+              { "schedule": "JU 20-22", "teacher": "J. MORALES" },
+              { "schedule": "VI 16-18", "teacher": "J. MORALES" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUIMICA Y GESTION AMBIENTAL",
+        "sections": [
+          {
+            "code": "CQ431 A",
+            "times": [
+              {
+                "schedule": "MA 08-10\nMA 08-10\nMI 11-13\nMI 11-13",
+                "teacher": "P. LÓPEZ"
+              },
+              { "schedule": "LU 14-18", "teacher": "I. MAZA\nP. LÓPEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SEMINARIO DE ELABORACION DE LA TESIS PROFESIONAL",
+        "sections": [
+          {
+            "code": "CQ461 A",
+            "times": [
+              { "schedule": "MI 16-17\nMI 16-17", "teacher": "A. BAENA" },
+              { "schedule": "MI 17-19\nMI 17-19", "teacher": "A. BAENA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUIMICA DE MATERIALES",
+        "sections": [
+          {
+            "code": "CQ472 A",
+            "times": [
+              {
+                "schedule": "MA 16-18\nMA 16-18\nJU 16-18\nJU 16-18",
+                "teacher": "H. ALARCÓN"
+              },
+              { "schedule": "LU 16-20", "teacher": "J. VEGA\nJ. RUIZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROCESOS QUIMICOS INDUSTRIALES",
+        "sections": [
+          {
+            "code": "CQ501 A",
+            "times": [
+              {
+                "schedule": "LU 18-20\nLU 18-20\nMA 17-19\nMA 17-19",
+                "teacher": "M. DÁVILA"
+              },
+              { "schedule": "VI 13-15", "teacher": "M. DÁVILA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GESTION DE LA CALIDAD DE LABORATORIOS",
+        "sections": [
+          {
+            "code": "CQ482 A",
+            "times": [
+              { "schedule": "MA 18-20\nMA 18-20", "teacher": "K. CHANGANAQUI" },
+              { "schedule": "VI 18-20\nVI 18-20", "teacher": "K. CHANGANAQUI" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DISEÑO ORGANIZACIONAL Y SEGURIDAD EN EL\nLABORATORIO",
+        "sections": [
+          {
+            "code": "CQ511 A",
+            "times": [
+              { "schedule": "MA 10-12\nMA 10-12", "teacher": "K. CHANGANAQUI" },
+              { "schedule": "VI 15-17", "teacher": "K. CHANGANAQUI" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CURSOS ELECTIVOS",
+        "sections": [
+          { "code": null, "times": [{ "schedule": null, "teacher": null }] }
+        ]
+      },
+      {
+        "name": "CATÁLISIS QUÍMICA",
+        "sections": [
+          {
+            "code": "CQ063 A",
+            "times": [
+              {
+                "schedule": "MA 12-14\nMA 12-14\nMI 12-14\nMI 12-14",
+                "teacher": "G. PICASSO"
+              },
+              { "schedule": "VI 10-14", "teacher": "J. VEGA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUÍMICA BIOINORGÁNICA",
+        "sections": [
+          {
+            "code": "CQ037 A",
+            "times": [
+              {
+                "schedule": "MA 16-18\nMA 16-18\nJU 16-18\nJU 16-18",
+                "teacher": "A. VALDERRAMA"
+              },
+              { "schedule": "MI 16-20", "teacher": "R. PASTRANA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ELECTROQUÍMICA APLICADA",
+        "sections": [
+          {
+            "code": "CQ013 A",
+            "times": [
+              {
+                "schedule": "JU 16-18\nJU 16-18\nVI 14-16",
+                "teacher": "A. LA ROSA TORO"
+              },
+              { "schedule": "MA 16-20", "teacher": "J. RUIZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "QUIMIOMETRÍA",
+        "sections": [
+          {
+            "code": "CQ085 A",
+            "times": [
+              { "schedule": "MA 16-19\nMA 16-19", "teacher": "C. JACINTO" },
+              { "schedule": "JU 18-21", "teacher": "C. JACINTO" },
+              { "schedule": null, "teacher": null }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESCUELA PROFESIONAL DE INGENIERÍA FÍSICA",
+    "courses": [
+      {
+        "name": "INTRODUCCIÓN A LA\nMETROLOGÍA",
+        "sections": [
+          {
+            "code": "IF242\nA",
+            "times": [
+              { "schedule": "JU 10-12", "teacher": "J. DÍAZ" },
+              { "schedule": "MI 16-19", "teacher": "C. PAUCARCHUCO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DIBUJO Y DISEÑO PARA INGENIERIA",
+        "sections": [
+          {
+            "code": "IF281\nA",
+            "times": [
+              { "schedule": "LU 17-19", "teacher": "D. HUAMANÍ" },
+              { "schedule": "VI 16-20", "teacher": "D. HUAMANÍ" }
+            ]
+          },
+          {
+            "code": "IF281\nB",
+            "times": [
+              { "schedule": "MA 10-12", "teacher": "H. HUANCA" },
+              { "schedule": "SA 08-12", "teacher": "H. HUANCA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MÉTODOS MATEMÁTICOS PARA INGENIERÍA",
+        "sections": [
+          {
+            "code": "IF252 A",
+            "times": [
+              {
+                "schedule": "LU 16-18\nMI 18-20\nSA 16-18",
+                "teacher": "J. DÍAZ"
+              },
+              { "schedule": "JU 14-18\nJU 14-18", "teacher": null }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INGENIERÍA DE PROCESOS MECÁNICOS",
+        "sections": [
+          {
+            "code": "IF292 A",
+            "times": [
+              { "schedule": "MI 08-09\nMI 08-09", "teacher": "H. HUANCA" },
+              { "schedule": "MI 10-13\nMI 10-13", "teacher": "H. HUANCA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INGENIERÍA DE INSTALACIONES INDUSTRIALES",
+        "sections": [
+          {
+            "code": "IF294 A",
+            "times": [
+              { "schedule": "LU 08-09", "teacher": "O. ROJAS" },
+              { "schedule": "LU 09-12\nLU 09-12", "teacher": "O. ROJAS" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CÁLCULO NUMÉRICO I",
+        "sections": [
+          {
+            "code": "IF321 A",
+            "times": [
+              { "schedule": "MI 14-16\nVI 14-16", "teacher": "D. LAURA" },
+              { "schedule": "LU 12-16\nLU 12-16", "teacher": "D. LAURA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FISICA TERMICA II",
+        "sections": [
+          {
+            "code": "IF325 A",
+            "times": [
+              { "schedule": "JU 14-16", "teacher": "M. QUINTANA" },
+              {
+                "schedule": "MA 16-18\nMA 16-18",
+                "teacher": "A. HUAMÁN\nC. PAUCARCHUCO"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FISICA TERMICA I",
+        "sections": [
+          {
+            "code": "IF352 A",
+            "times": [
+              { "schedule": "LU 14-16\nMI 16-18", "teacher": "M. QUINTANA" },
+              {
+                "schedule": "JU 14-16\nJU 14-16",
+                "teacher": "W. ESTRADA\nA. HUAMÁN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROCESAMIENTO DE SEÑALES\nY DATOS",
+        "sections": [
+          {
+            "code": "IF3B2\nA",
+            "times": [
+              { "schedule": "LU 16-18", "teacher": "G. COMINA" },
+              { "schedule": "MI 08-11", "teacher": "L. SÁNCHEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ELECTROMAGNETISMO PARA INGENIERÍA",
+        "sections": [
+          {
+            "code": "IF372 A",
+            "times": [
+              { "schedule": "LU 08-10\nMI 14-16", "teacher": "R. PEREZ" },
+              { "schedule": "MA 16-18", "teacher": "L. SÁNCHEZ\nR. PEREZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CÁLCULO NUMERICO II",
+        "sections": [
+          {
+            "code": "IF392 A",
+            "times": [
+              { "schedule": "MA 13-16", "teacher": "C. SOLANO" },
+              { "schedule": "JU 10-13\nJU 10-13", "teacher": "C. SOLANO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INGENIERIA ECONOMICA",
+        "sections": [
+          {
+            "code": "IF3A2\nA",
+            "times": [{ "schedule": "JU 08-10", "teacher": "C. CERVANTES" }]
+          }
+        ]
+      },
+      {
+        "name": "MECÁNICA CUÁNTICA",
+        "sections": [
+          {
+            "code": "IF411 A",
+            "times": [
+              { "schedule": "LU 10-13\nVI 12-15", "teacher": "R. PEREZ" },
+              { "schedule": "JU 16-19", "teacher": "D. HUAMANÍ\nA. HUAMÁN" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TEORÍA DE CONTROL",
+        "sections": [
+          {
+            "code": "IF462 A",
+            "times": [
+              { "schedule": "LU 16-18\nJU 14-16", "teacher": "L. SÁNCHEZ" },
+              { "schedule": "MI 16-18\nMI 17-18", "teacher": "L. SÁNCHEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SISTEMAS DIGITALES",
+        "sections": [
+          {
+            "code": "IF471 A",
+            "times": [
+              { "schedule": "LU 14-15\nLU 14-15", "teacher": "G. CASTILLO" },
+              {
+                "schedule": "LU 15-18\nLU 15-18\nMI 14-18\nMI 14-18",
+                "teacher": "G. CASTILLO"
+              }
+            ]
+          },
+          {
+            "code": "IF471 B",
+            "times": [
+              { "schedule": "MI 08-09\nMI 08-09", "teacher": "G. CASTILLO" },
+              {
+                "schedule": "MI 09-12\nMI 09-12\nVI 08-12\nVI 08-12",
+                "teacher": "G. CASTILLO"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INTRODUCCIÓN A LA CIENCIA E INGENIERÍA DE LOS MATERIALES",
+        "sections": [
+          {
+            "code": "IF482 A",
+            "times": [
+              { "schedule": "MI 08-10\nJU 08-10", "teacher": "J. SOLIS" },
+              {
+                "schedule": "MA 12-14\nMA 12-14",
+                "teacher": "H. HUANCA\nA. HUAMÁN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INGENIERÍA SOLAR",
+        "sections": [
+          {
+            "code": "IF492 A",
+            "times": [
+              { "schedule": "LU 10-12\nMI 10-12", "teacher": "M. GOMEZ" },
+              {
+                "schedule": "JU 11-13\nJU 11-13",
+                "teacher": "O. ROJAS\nM. HORN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MECANICA DE FLUIDOS",
+        "sections": [
+          {
+            "code": "IF4A1\nA",
+            "times": [
+              { "schedule": "SA 15-17", "teacher": "C. PAUCARCHUCO" },
+              { "schedule": "SA 17-18", "teacher": "C. PAUCARCHUCO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS I",
+        "sections": [
+          {
+            "code": "IF4A2\nA",
+            "times": [
+              { "schedule": "MA 08-10", "teacher": "W. ESTRADA" },
+              { "schedule": "SA 14-18", "teacher": "J. RODRÍGUEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "METODOLOGIA DE LA\nINVESTIGACION CIENTIFICA",
+        "sections": [
+          {
+            "code": "IF4B1\nA",
+            "times": [
+              { "schedule": "MA 19-21", "teacher": "J. DÍAZ" },
+              { "schedule": "MA 21-22", "teacher": "J. DÍAZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE INSTRUMENTACIÓN ELECTRÓNICA",
+        "sections": [
+          {
+            "code": "IF511 A",
+            "times": [
+              { "schedule": "MI 10-12\nMI 10-12", "teacher": "G. COMINA" },
+              {
+                "schedule": "MI 08-10\nMI 08-10\nVI 08-10\nVI 08-10\nVI 10-11\nVI 10-11",
+                "teacher": "G. COMINA O.ROJAS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS II",
+        "sections": [
+          {
+            "code": "IF543 A",
+            "times": [
+              {
+                "schedule": "Coordinar con el asesor",
+                "teacher": "M. GOMEZ\nM. QUINTANA\nC. SOLANO\nJ. SOLIS\nA. GUTARRA\nG. COMINA\nJ. RODRÍGUEZ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS III",
+        "sections": [
+          {
+            "code": "IF554\nA",
+            "times": [
+              { "schedule": "Coordinar con\nel asesor", "teacher": "M. GOMEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TÉCNICAS FÍSICAS PARA LA INDUSTRIA",
+        "sections": [
+          {
+            "code": "IF562 A",
+            "times": [
+              { "schedule": "JU 08-10\nJU 08-10", "teacher": "A. GUTARRA" },
+              { "schedule": "JU 10-12\nJU 10-12", "teacher": "A. GUTARRA" }
+            ]
+          },
+          {
+            "code": "IF562\nA1",
+            "times": [
+              {
+                "schedule": "MA 08-12\nMA 08-12",
+                "teacher": "A. GUTARRA\nA. HUAMÁN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CURSOS ELECTIVOS",
+        "sections": [
+          { "code": null, "times": [{ "schedule": null, "teacher": null }] }
+        ]
+      },
+      {
+        "name": "TOPICOS ESPECIALES DE\nINGENIERIA FISICA I",
+        "sections": [
+          {
+            "code": "IFE22\nA",
+            "times": [
+              { "schedule": "LU 14-18", "teacher": "P. GARCÍA" },
+              { "schedule": "LU 10-12", "teacher": "P. GARCÍA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TOPICOS ESPECIALES DE INGENIERIA FISICA VII\n(ENERGYPLUS AVANZADO)",
+        "sections": [
+          {
+            "code": "IFE28 A",
+            "times": [{ "schedule": "SA 07-08", "teacher": "M. GOMEZ" }]
+          }
+        ]
+      },
+      {
+        "name": "TOPICOS ESPECIALES DE INGENIERIA FISICA VIII\n(CÁLCULO NUMÉRICO",
+        "sections": [
+          {
+            "code": "IFE29 A",
+            "times": [
+              { "schedule": "MA 10-12", "teacher": "D. LAURA" },
+              { "schedule": "JU 08-10\nJU 08-10", "teacher": "D. LAURA" },
+              { "schedule": null, "teacher": null }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESCUELA PROFESIONAL DE CIENCIA DE LA COMPUTACIÓN",
+    "courses": [
+      {
+        "name": "INTRODUCCIÓN A LA COMPUTACIÓN",
+        "sections": [
+          {
+            "code": "BIC01\nA",
+            "times": [
+              { "schedule": "SA 08-09", "teacher": "G. ARRUNÁTEGUI" },
+              { "schedule": "SA 10-12", "teacher": "S. VALER" }
+            ]
+          },
+          {
+            "code": "BIC01\nB",
+            "times": [
+              { "schedule": "SA 11-12", "teacher": "A. CHULLUNCUY" },
+              { "schedule": "SA 12-14", "teacher": "A. CHULLUNCUY" }
+            ]
+          },
+          {
+            "code": "BIC01\nC",
+            "times": [
+              { "schedule": "SA 15-16", "teacher": "M. ALANIA" },
+              { "schedule": "SA 16-18", "teacher": "M. ALANIA" }
+            ]
+          },
+          {
+            "code": "BIC01\nD",
+            "times": [
+              { "schedule": "SA 09-10", "teacher": "G. ARRUNÁTEGUI" },
+              { "schedule": "SA 10-12", "teacher": "L. NAVARRO" }
+            ]
+          },
+          {
+            "code": "BIC01\nE",
+            "times": [
+              { "schedule": "SA 11-12", "teacher": "M. ALANIA" },
+              { "schedule": "SA 12-14", "teacher": "M. ALANIA" }
+            ]
+          },
+          {
+            "code": "BIC01\nF",
+            "times": [
+              { "schedule": "SA 15-16", "teacher": "A. CHULLUNCUY" },
+              { "schedule": "SA 16-18", "teacher": "A. CHULLUNCUY" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FUNDAMENTOS DE PROGRAMACIÓN",
+        "sections": [
+          {
+            "code": "CC112 A",
+            "times": [
+              { "schedule": "LU 12-14\nLU 12-14", "teacher": "C. NUÑEZ" },
+              { "schedule": "JU 16-20\nJU 16-20", "teacher": "C. NUÑEZ" }
+            ]
+          },
+          {
+            "code": "CC112 B",
+            "times": [
+              { "schedule": "MA 13-15\nMA 13-15", "teacher": "Y. CCOICCA" },
+              { "schedule": "JU 16-20\nJU 16-20", "teacher": "L. ROCA" }
+            ]
+          },
+          {
+            "code": "CC112 C",
+            "times": [
+              { "schedule": "LU 18-20", "teacher": "C. DIAZ" },
+              { "schedule": "JU 16-20\nJU 16-20", "teacher": "C. DIAZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROGRAMACION ORIENTADA A OBJETOS",
+        "sections": [
+          {
+            "code": "CC211 A",
+            "times": [
+              { "schedule": "LU 07-09\nLU 07-09", "teacher": "C. BAZÁN" },
+              {
+                "schedule": "LU 09-10\nLU 09-10\nVI 07-10\nVI 07-10",
+                "teacher": "C. BAZÁN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ARQUITECTURA DE COMPUTADORES",
+        "sections": [
+          {
+            "code": "CC221\nAB",
+            "times": [
+              { "schedule": "MA 19-21\nMA 19-21", "teacher": "C. CRUZ" }
+            ]
+          },
+          {
+            "code": "CC221\nA",
+            "times": [
+              { "schedule": "JU 18-22\nJU 18-22", "teacher": "C. CRUZ" }
+            ]
+          },
+          {
+            "code": "CC221\nB",
+            "times": [
+              { "schedule": "VI 18-22\nVI 18-22", "teacher": "C. CRUZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BASE DE DATOS",
+        "sections": [
+          {
+            "code": "CC202\nA",
+            "times": [
+              { "schedule": "MA 08-11", "teacher": "V. MELCHOR" },
+              { "schedule": "LU 13-16", "teacher": "V. MELCHOR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SISTEMAS OPERATIVOS",
+        "sections": [
+          {
+            "code": "CC222\nA",
+            "times": [
+              { "schedule": "MI 07-10", "teacher": "C. BAZÁN" },
+              { "schedule": "JU 08-11", "teacher": "C. BAZÁN" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ALGORITMOS Y ESTRUCTURAS\nDE DATOS",
+        "sections": [
+          {
+            "code": "CC232\nA",
+            "times": [
+              { "schedule": "MA 14-16", "teacher": "C. DIAZ" },
+              { "schedule": "MI 18-22", "teacher": "C. DIAZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANALISIS Y DISEÑO DE\nALGORITMOS",
+        "sections": [
+          {
+            "code": "CC371\nA",
+            "times": [
+              { "schedule": "LU 18-21", "teacher": "J. OSORIO" },
+              { "schedule": "JU 11-14", "teacher": "J. OSORIO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROGRAMACION PARALELA",
+        "sections": [
+          {
+            "code": "CC332 A",
+            "times": [
+              { "schedule": "MA 08-10", "teacher": "J. FIESTAS" },
+              { "schedule": "MA 10-11\nVI 08-11", "teacher": "J. FIESTAS" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "COMPUTACION CENTRADA EN\nREDES",
+        "sections": [
+          {
+            "code": "CC311\nA",
+            "times": [
+              { "schedule": "MI 18-21", "teacher": "R. MARTINEZ" },
+              { "schedule": "VI 18-21", "teacher": "R. MARTINEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "TEORIA DE AUTOMATAS,\nLENGUAJES Y COMPUTACION",
+        "sections": [
+          {
+            "code": "CC321\nA",
+            "times": [
+              { "schedule": "MA 19-22", "teacher": "V. MELCHOR" },
+              { "schedule": "VI 15-18", "teacher": "V. MELCHOR" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MATEMATICA COMPUTACIONAL",
+        "sections": [
+          {
+            "code": "CC3M2\nA",
+            "times": [
+              { "schedule": "MA 11-14", "teacher": "A. CHULLUNCUY" },
+              { "schedule": "MI 07-10", "teacher": "A. CHULLUNCUY" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "DESARROLLO DE SOFTWARE",
+        "sections": [
+          {
+            "code": "CC3S2 A",
+            "times": [
+              { "schedule": "LU 10-12", "teacher": "C. LARA" },
+              { "schedule": "LU 12-13\nJU 08-11", "teacher": "C. LARA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SEGURIDAD EN SISTEMAS\nINFORMATICOS",
+        "sections": [
+          {
+            "code": "CC411\nA",
+            "times": [
+              { "schedule": "VI 15-18", "teacher": "S. VALER" },
+              { "schedule": "SA 15-18", "teacher": "S. VALER" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "COMPUTACION GRAFICA",
+        "sections": [
+          {
+            "code": "CC431 A",
+            "times": [
+              { "schedule": "JU 18-20", "teacher": "P. MONTALVO" },
+              { "schedule": "JU 20-21\nSA 07-10", "teacher": "P. MONTALVO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INTELIGENCIA ARTIFICIAL",
+        "sections": [
+          {
+            "code": "CC421\nA",
+            "times": [
+              { "schedule": "MI 18-21", "teacher": "C. LARA" },
+              { "schedule": "LU 15-18", "teacher": "C. LARA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROGRAMACION CONCURRENTE Y DISTRIBUIDA",
+        "sections": [
+          {
+            "code": "CC4P1 A",
+            "times": [
+              { "schedule": "LU 07-09", "teacher": "Y. NUÑEZ" },
+              { "schedule": "LU 09-10\nMA 07-10", "teacher": "Y. NUÑEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INTERACCION HUMANO- COMPUTADOR",
+        "sections": [
+          {
+            "code": "CC451 A",
+            "times": [
+              { "schedule": "MA 14-16", "teacher": "C. NUÑEZ" },
+              { "schedule": "MA 16-17\nMI 14-17", "teacher": "C. NUÑEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INGENIERIA DE SOFTWARE",
+        "sections": [
+          {
+            "code": "CC341\nA",
+            "times": [
+              { "schedule": "LU 15-18", "teacher": "G. ARRUNÁTEGUI" },
+              { "schedule": "JU 18-21", "teacher": "G. ARRUNÁTEGUI" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ADMINISTRACION DE REDES",
+        "sections": [
+          {
+            "code": "CC312\nA",
+            "times": [
+              { "schedule": "MA 15-18", "teacher": "Y. CCOICCA" },
+              { "schedule": "JU 14-17", "teacher": "Y. CCOICCA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS I",
+        "sections": [
+          {
+            "code": "CC412 A",
+            "times": [
+              {
+                "schedule": "Coordinar con el asesor",
+                "teacher": "J. SEGOVIA\nM. ALANIA\nJ. VALVERDE\nJ. FIESTAS\nG. ARRUNÁTEGUI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "INFRAESTRUCTURAS DE\nCOMPUTACION",
+        "sections": [
+          {
+            "code": "CC422\nA",
+            "times": [
+              { "schedule": "LU 19-22", "teacher": "J. LOZANO" },
+              { "schedule": "VI 19-22", "teacher": "J. LOZANO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ROBOTICA",
+        "sections": [
+          {
+            "code": "CC432\nA",
+            "times": [
+              { "schedule": "MA 19-22", "teacher": "J. LOZANO" },
+              { "schedule": "MI 19-22", "teacher": "J. LOZANO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MINERIA DE DATOS",
+        "sections": [
+          {
+            "code": "CC442\nA",
+            "times": [
+              { "schedule": "MA 10-13", "teacher": "L. NAVARRO" },
+              { "schedule": "MI 10-13", "teacher": "L. NAVARRO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROGRAMACION EVOLUTIVA",
+        "sections": [
+          {
+            "code": "CC521 A",
+            "times": [
+              { "schedule": "JU 19-21", "teacher": "M. ALANIA" },
+              { "schedule": "JU 21-22\nSA 08-11", "teacher": "M. ALANIA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ANALISIS EN MACRODATOS",
+        "sections": [
+          {
+            "code": "CC531 A",
+            "times": [
+              { "schedule": "MA 15-17", "teacher": "Y. NUÑEZ" },
+              { "schedule": "MA 17-18\nMI 15-18", "teacher": "Y. NUÑEZ" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROYECTO DE TESIS III",
+        "sections": [
+          {
+            "code": "CC512\nA",
+            "times": [
+              { "schedule": "Coordinar con\nel asesor", "teacher": "M. ALANIA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CURSOS ELECTIVOS",
+        "sections": [
+          { "code": null, "times": [{ "schedule": null, "teacher": null }] }
+        ]
+      },
+      {
+        "name": "CALIDAD DE SOFTWARE",
+        "sections": [
+          {
+            "code": "CC0A5\nA",
+            "times": [
+              { "schedule": "LU 18-21", "teacher": "G. ARRUNÁTEGUI" },
+              { "schedule": "VI 18-21", "teacher": "G. ARRUNÁTEGUI" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "COMPILADORES",
+        "sections": [
+          {
+            "code": "CC0E3\nA",
+            "times": [
+              { "schedule": "LU 14-17", "teacher": "J. OSORIO" },
+              { "schedule": "VI 14-17", "teacher": "J. OSORIO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PROGRAMACION DE\nDISPOSITIVOS MOVILES",
+        "sections": [
+          {
+            "code": "CC0A2\nA",
+            "times": [
+              { "schedule": "JU 18-21", "teacher": "R. MARTINEZ" },
+              { "schedule": "SA 18-21", "teacher": "R. MARTINEZ" },
+              { "schedule": null, "teacher": null }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CURSOS DE HUMANIDADES Y COMPLEMENTARIOS",
+        "sections": [
+          { "code": null, "times": [{ "schedule": null, "teacher": null }] }
+        ]
+      },
+      {
+        "name": "ÉTICA Y FILOSOFÍA POLÍTICA",
+        "sections": [
+          {
+            "code": "BEF01\nA",
+            "times": [
+              { "schedule": "VI 11-12", "teacher": "J. ROMERO" },
+              { "schedule": "VI 12-14", "teacher": "J. ROMERO" }
+            ]
+          },
+          {
+            "code": "BEF01\nB",
+            "times": [
+              { "schedule": "MI 15-16", "teacher": "J. ROMERO" },
+              { "schedule": "MI 16-18", "teacher": "J. ROMERO" }
+            ]
+          },
+          {
+            "code": "BEF01\nC",
+            "times": [
+              { "schedule": "VI 19-20", "teacher": "J. ROMERO" },
+              { "schedule": "VI 20-22", "teacher": "J. ROMERO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ECONOMÍA GENERAL",
+        "sections": [
+          {
+            "code": "BEG01",
+            "times": [{ "schedule": "LU 16-18", "teacher": "C.VERA" }]
+          },
+          {
+            "code": "A",
+            "times": [{ "schedule": "MA 17-19", "teacher": "C.VERA" }]
+          },
+          {
+            "code": "BEG01\nB",
+            "times": [
+              { "schedule": "VI 08-10", "teacher": "W. ZAVALETA" },
+              { "schedule": "MA 17-19", "teacher": "W. ZAVALETA" }
+            ]
+          },
+          {
+            "code": "BEG01\nC",
+            "times": [
+              { "schedule": "LU 16-18", "teacher": "R. CLAVIJO" },
+              { "schedule": "MA 16-18", "teacher": "R. CLAVIJO" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "REDACCIÓN Y COMUNICACIÓN",
+        "sections": [
+          {
+            "code": "BRC01\nA",
+            "times": [
+              { "schedule": "SA 09-10", "teacher": "L. GOMEZ" },
+              { "schedule": "SA 10-12", "teacher": "L. GOMEZ" }
+            ]
+          },
+          {
+            "code": "BRC01 B",
+            "times": [
+              { "schedule": "MA 14-15\nMA 14-15", "teacher": "E. EVANGELISTA" },
+              { "schedule": "MA 15-17\nMA 15-17", "teacher": "E. EVANGELISTA" }
+            ]
+          },
+          {
+            "code": "BRC01 C",
+            "times": [
+              { "schedule": "LU 13-14\nLU 13-14", "teacher": "E. EVANGELISTA" },
+              { "schedule": "LU 14-16\nLU 14-16", "teacher": "E. EVANGELISTA" }
+            ]
+          },
+          {
+            "code": "BRC01\nD",
+            "times": [
+              { "schedule": "SA 13-14", "teacher": "E. EVANGELISTA" },
+              { "schedule": "SA 14-16", "teacher": "E. EVANGELISTA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "REALIDAD NACIONAL, CONSTITUCIÓN Y DERECHOS HUMANOS",
+        "sections": [
+          {
+            "code": "BRN01\nA",
+            "times": [
+              { "schedule": "SA 14-16", "teacher": "R. CLAVIJO" },
+              { "schedule": "SA 16-18", "teacher": "R. CLAVIJO" }
+            ]
+          },
+          {
+            "code": "BRN01\nB",
+            "times": [
+              { "schedule": "SA 08-10", "teacher": "R. CLAVIJO" },
+              { "schedule": "SA 10-12", "teacher": "R. CLAVIJO" }
+            ]
+          },
+          {
+            "code": "BRN01\nC",
+            "times": [
+              { "schedule": "MA 18-20", "teacher": "L. GOMEZ" },
+              { "schedule": "MA 20-22", "teacher": "L. GOMEZ" }
+            ]
+          },
+          {
+            "code": "BRN01\nD",
+            "times": [
+              { "schedule": "SA 14-16", "teacher": "P. CCANRE" },
+              { "schedule": "SA 16-18", "teacher": "P. CCANRE" }
+            ]
+          },
+          {
+            "code": "BRN01\nE",
+            "times": [
+              { "schedule": "JU 16-18", "teacher": "P. CCANRE" },
+              { "schedule": "JU 18-20", "teacher": "P. CCANRE" }
+            ]
+          },
+          {
+            "code": "BRN01\nF",
+            "times": [
+              { "schedule": "JU 16-18", "teacher": "U.HUMALA" },
+              { "schedule": "JU 18-20", "teacher": "U.HUMALA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "METODOLOGIA DE LA\nINVESTIGACION",
+        "sections": [
+          {
+            "code": "CC4H1\nA",
+            "times": [
+              { "schedule": "MA 18-19", "teacher": "J. SEGOVIA" },
+              { "schedule": "MA 19-21", "teacher": "J. SEGOVIA" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BIOLOGÍA",
+        "sections": [
+          {
+            "code": "CH061\nAB",
+            "times": [{ "schedule": "VI 17-19", "teacher": "P. GARCÍA" }]
+          },
+          {
+            "code": "CH061\nA",
+            "times": [{ "schedule": "MA 10-12", "teacher": "P. GARCÍA" }]
+          },
+          {
+            "code": "CH061\nB",
+            "times": [{ "schedule": "MI 12-14", "teacher": "P. GARCÍA" }]
+          }
+        ]
+      },
+      {
+        "name": "INGLÉS I",
+        "sections": [
+          {
+            "code": "CL002\nA",
+            "times": [
+              { "schedule": "LU 18-19", "teacher": "C. CCAHUANCAMA" },
+              { "schedule": "LU 19-22", "teacher": "C. CCAHUANCAMA" }
+            ]
+          },
+          {
+            "code": "CL002\nB",
+            "times": [
+              { "schedule": "MA 18-20", "teacher": "C. CCAHUANCAMA" },
+              { "schedule": "MA 20-22", "teacher": "C. CCAHUANCAMA" }
+            ]
+          },
+          {
+            "code": "CL002\nC",
+            "times": [
+              { "schedule": "MI 18-19", "teacher": "C. CCAHUANCAMA" },
+              { "schedule": "MI 19-22", "teacher": "C. CCAHUANCAMA" }
+            ]
+          },
+          {
+            "code": "CL002\nD",
+            "times": [
+              { "schedule": "JU 13-14", "teacher": "C. CCAHUANCAMA" },
+              { "schedule": "JU 14-17", "teacher": "C. CCAHUANCAMA" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
